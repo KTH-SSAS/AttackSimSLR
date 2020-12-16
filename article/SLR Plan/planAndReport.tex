@@ -1,0 +1,639 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{csquotes}
+\usepackage{array}
+\usepackage{graphicx}
+\usepackage[export]{adjustbox}
+\usepackage{float}
+
+\usepackage[backend=biber, style=ieee]{biblatex}
+\addbibresource{vebib.bib}
+
+\title{Literature Review Plan \& Status report}
+\author{Viktor Engström}
+
+\begin{document}
+
+\maketitle
+
+\section{Review plan}
+\subsection{Topic}
+(Cyber) attack simulations
+
+\subsection{Preliminary research questions}
+What is the current state of cyber attack simulations research?
+\begin{itemize}
+    \item Which simulation methods are prevalent in the cyber security field?
+    \item How has previous research related to cyber attack simulations been conducted?
+    \item What are the gaps within current cyber attack simulations research?
+\end{itemize}
+
+
+\subsection{Time scope}
+1999 - 2019\\
+\\
+\noindent In addition to being an even 20 years, the preliminary search indicated \cite{cohen1999} from 1999 as seminal work. Furthermore, cyber attack simulations has appeared as a fairly uncommon line of research. This could make the longer timeframe viable, unless the first search iteration indicates otherwise.
+
+%\subsection{Previous reviews}
+
+\subsubsection{Databases}
+Preferred databases in descending order of priority:
+\begin{itemize}
+    \item IEEE Xplore
+    \item ACM
+    \item ScienceDirect (Elsevier)
+    \item SpringerLink
+    \item (Scopus)
+    \item (Web of Science)
+\end{itemize}
+
+\noindent Optional databases, as time allows, in no particular order:
+\begin{itemize}
+    \item Sage Publications
+    \item JSTOR
+    \item Wiley online library
+    \item Taylor and Francis
+    \item Emerald Insight
+\end{itemize}
+
+\subsubsection{Publication priorities}
+In descending order of importance:
+\begin{itemize}
+    \item Journals
+    \item Conference proceedings
+    \item Workshops
+\end{itemize}
+
+\noindent Books are excluded unless they are compilations of articles e.g. accepted papers from an academically recognized conference.
+
+\subsection{Predicted contributions}
+\begin{itemize}
+    \item The first(?) systematic literature review on cyber attack simulations.
+    \item A unified view of the seemingly disjointed cyber attack simulations research field.
+    \item Analysis of the strengths and weaknesses of various attack simulation methods.
+    \item Suggestions for future research.
+\end{itemize}
+
+\subsection{Review methodology}
+
+The review plan and methodology is structured around the Search, Appraisal, Synthesis, and Analysis framework \cite{booth2012} supported by additional practical advice, mainly from \cite{Kitchenham07, okoli2010}.
+
+\subsubsection{Search procedure}
+
+The preliminary search indicated that it could be difficult to identify cyber attack simulation research. The main reason is that attack simulation works seem to routinely goes by other names. For example, they could instead use the terms vulnerability assessment or risk analysis. These are by themselves large areas of research. An approach less dependent on keywords would, then, be preferable in order to avoid scope creep. Therefore, a snowball search procedure was chosen to complement the standard keyword approach. The structure was primarily derived from \cite{webster2002}, although similar techniques are mentioned both \cite[pp.~78-79]{booth2012} and \cite[p~20]{okoli2010}. The final search procedure is detailed below:
+
+\begin{enumerate}
+    \item Search the selected databases using the chosen domain and topic combinations.
+    \item Exclude irrelevant articles (inital + limited assessments).
+    \item Update keywords and repeat the same search-exclusion process.
+    \item Snowball search 1 step forward (with Google Scholar) and backwards based on the remaining papers. This step should have at least 2 iterations.
+    \begin{itemize}
+        \item This step may include seminal works, as indicated by the collected body of works, outside the original search scope for the sake of completeness.
+    \end{itemize}
+    \item (Repeat the 1st iteration keyword search during 2020 before the end of the project).
+    \item Perform the final full exclusion/inclusion assessment.
+    \item Read and classify the remaining articles.
+    \item Critically analyse and compare the articles.
+    \item Report findings.
+\end{enumerate}
+
+\subsubsection{Defining cyber attack simulations}
+
+For the purposes of the review, the adopted definition of simulations is the following:
+
+\begin{displayquote}
+"Simulation is performing goal-directed experimentation or gaining experience under controlled conditions by using dynamic models; where a dynamic model denotes a model for which behavior and/or structure is variable on a time base"\cite[p6]{oren2017}
+\end{displayquote}
+
+\noindent Given this, then, a cyber attack simulation might be defined as:
+
+\begin{displayquote}
+
+"A simulation of actions targeting information or computer systems, which could compromise security properties or otherwise cause harmful effects if successful."
+
+\end{displayquote}{}
+
+\subsubsection{Inclusion/exclusion criteria}
+
+Given the definitions above, the following criteria for what constitutes primary cyber attack simulation studies can be derived:
+\begin{itemize}
+    \item The underlying focus is on simulating adversarial harmful behaviors, either intentional or unintentional, against information or computer systems.
+        \begin{itemize}
+            \item Harmful actions refer to actions which could undermine security properties, such as the CIA-triad.
+        \end{itemize}
+        \begin{itemize}
+            \item This excludes papers on topics like malware epidemiology.
+        \end{itemize}
+    \item The objective of the simulation (and the study) should be experimental in nature.
+        \begin{itemize}
+            \item This excludes papers with experiential simulations.
+        \end{itemize}
+    \item The modeling method includes an element of uncertainty or decision-making.
+        \begin{itemize}
+            \item Example indicators are the presence of modeling \& simulation terminology, such as discrete event or differential simulations, or Monte Carlo methods.
+                \begin{itemize}
+                    \item This further serves to exclude papers on static probabilistic modeling, like bayesian networks, unless they also feature concepts such as discrete event simulation or random sampling.
+                \end{itemize}
+        \end{itemize}
+    \item At least one contribution related to applying, designing, proposing, presenting, or evaluating a cyber attack simulation artifact.
+        \begin{itemize}
+            \item This excludes papers where simulations are used to exclusively evaluate another type of artifact, unless the express purpose is to assess its adequacy for simulations.
+            \item This excludes papers primarily about artifacts that could be used for simulations, e.g. probabilistic models.
+        \end{itemize}
+\end{itemize}
+
+\noindent In addition to all constraints defined so far, the following base quality criteria, derived from \cite[p~19]{Kitchenham07}, should also be met:
+
+\begin{itemize}
+    \item The article is written in English.
+    \item The article is obtainable.
+    \item The article should appear in a reputable and recognized academic source.
+    \item The article displays acceptable levels of correctness in terms of language, formatting, argumentation, conclusions, and applied research methodology.
+    \item The article is a primary study.
+    \begin{itemize}
+        \item Secondary studies encountered in the search process will be handled but not as part of the systematic review itself.
+    \end{itemize}
+\end{itemize}
+
+\subsubsection{Initial keywords}
+\begin{center}
+\begin{tabular}{ | m{1.2cm} | m{28em}| m{1.5cm} | }
+\hline
+Domain keys & "cyber*security" "information security" "it security" "network security" "system* security" "software security" "ICT security" "computer security"\\
+\hline
+Topic keys & "attack simulation*" OR simulation* OR "attack path*" OR probabilistic OR probability OR "attack graph" OR "attack tree"\\
+\hline
+IoR & security/vulnerability/risk assessment/analysis, predict*, projection, intelligent*, simulator, simulative, game-theoretic, decision*, expert system, dynamic model*, bayesian networks, attacks, attacker, adversarial, attack-defence, attacker-defender, stochastic, forecasting, testbed, discrete event, Markov*, likelihood, stochastic, Bayesian network, Monte Carlo\\
+\hline
+\end{tabular}
+\end{center}
+
+% Test string
+%"cyber*security" AND ("attack simulation*" OR simulation* OR probabilistic OR probability OR graph OR tree OR "risk analysis" OR "vulnerability assessment" OR "vulnerability analysis")
+
+% First iter
+% IEEE -> All metadata
+%"<domain>" AND ("attack simulation*" OR simulation* OR "attack path" OR probabilistic OR probability OR "attack graph" OR "attack tree")
+
+\noindent The search string is the combination of a single domain keywords and multiple topic keywords in the format "domain AND [topic1 OR topic2 OR ...]". For example, with cyber security as the domain, then, attack simulations and attack graphs could be the keywords. This would result in the search string along the lines of "cyber security AND ((attack AND simulation*) OR (attack AND graph*))". The full list of both keyword types is given in the table above.\\
+
+\noindent The third part of the table lists the Indicators of Relevance (IoR). Initial inclusion decisions were made predominantly based on titles alone during the keyword search process. However, many search results contained the topic keys in the abstracts rather than the title. Therefore, an ad-hoc set of somewhat synonymous, or otherwise potentially relevant, keywords was compiled. These keywords are listed as IoRs.
+
+%Topic keys* "attack simulation" OR "attack simulations" OR simulation OR forecasting OR prediction OR projection OR probabilistic OR probability OR classification OR "risk analysis" OR *graph* OR "attack graph" OR *tree* OR discrete OR differential OR continuous OR "game theory" OR "game-theoretic" OR game OR model OR threat OR attack OR attacker OR attack path OR enterprise OR SCADA OR cyber-physical OR "model-driven security" OR "bayesian network" OR assessment OR measurement OR "graphical model" OR "attack modeling" OR "defense modeling" OR "defence modeling" OR "DAG" OR "Markov model" OR "exploit" OR "modeling language" OR "domain-specific language" OR "expert system" OR "risk management" OR "sequential modeling"
+
+\subsubsection{Updated keywords}
+
+\begin{center}
+\begin{tabular}{ | m{1.2cm} | m{28em}| m{1.5cm} | }
+\hline
+Domain keys & "cyber*security" "information security" "it security" "network security" "system* security" "software security" "ICT security" "computer security"\\
+\hline
+Topic keys & simulator*, "simulating", "attack simulator*", "simulation platform", "simulation framework", "simulation model", "simulation methodology", "computer simulation", "Monte Carlo*", "discrete event*", "continuous simulation", virtuali*\\
+\hline
+IoR & Not available\\
+\hline
+\end{tabular}
+\end{center}
+
+\noindent The first round of keywords and initial assessments resulted in a large amount of search hits and false positives. The second round of keywords are, therefore, selected to be more focused. This is, moreover, a deliberate choice in order to obtain a funnel-shaped search process. These keywords are sourced both from general simulation theory literature \cite{law2000, zeigler2000} and prominent keywords from the first search round, e.g. from \cite{bowen2019, alves2018, koutsoukos2017, queiroz2011}.\footnote{The full literature list accompanies this report.}
+
+\subsubsection{Relevance assessment}
+
+The relevance assessment process has 3 distinct phases planned currently:
+
+\begin{itemize}
+    \item Inital assessment
+        \begin{itemize}
+            \item This involves reading titles, abstract, and keywords in order to assess relevance.
+        \end{itemize}
+    \item Limited assessment
+        \begin{itemize}
+            \item The limited assessment includes skimming selected sections of paper where too much uncertainty remains after the initial assessment regarding relevance. This involves glancing at sections like the problem statement, research questions, contributions, paper structure, design descriptions (where applicable), results, or conclusions.
+        \end{itemize}
+    \item Full assessment and synthesis
+        \begin{itemize}
+            \item Involves reading the full text. Papers are excluded during the assessment and synthesis process. Example reasons are earlier misconceptions and duplicate papers. This is conducted in the assessment and synthesis stage.
+        \end{itemize}
+\end{itemize}
+
+\subsubsection{Data extraction}
+
+Descriptive information
+\begin{itemize}
+    \item Year
+    \item Authors (abbreviated)
+    \item Publication
+    \item Paper title
+    \item Study type
+    \item Problem entity
+    \item Study design/methodology
+    \item Research question(s)
+    \item Problem
+    \item Aims/contributions
+    \item Modeling or simulation paradigm
+    \item Artefact description
+    \item Evaluation method
+    \item Results
+    \item Discussions
+    \item Conclusions
+    \item Related works
+    \item Comments
+\end{itemize}
+
+\noindent Quality assessment criteria
+
+\begin{itemize}
+    \item Alignment with research purposes \cite{law2015}
+        \begin{itemize}
+            \item Soundness of methodology? \cite[pp.~66-70]{law2015}\cite{sargent2010}
+        \end{itemize}
+    \item Problem entity complexity \cite{law2015}
+    \item Correctness of assumptions \cite{sargent2015}
+    \item Correctness of theory \cite{sargent2015}
+    \item Model representativeness \cite{sargent2015}
+    \item Model correctness/validity \cite{sargent2015, law2008}
+        \begin{itemize}
+            \item Type I, II, and III errors \cite{balci1998}
+        \end{itemize}
+    \item Model/simulation validation methods \cite{sargent2015}
+    \item Prediction/Decision-making potential? \cite{law2015}
+    \item Results reproducibility \cite{taylor2018}
+\end{itemize}
+
+\subsubsection{Assessment and Synthesis}
+
+Papers are read and analysed fully in this stage. Furthermore, descriptive and quality data are extracted during this stage. The overall method is derived from the four steps of \cite[pp.~222-224]{booth2012} for qualitative synthesis. The planned phases for are as follow:
+
+    \begin{enumerate}
+        \item Independent assessment and descriptive data extraction (Gist reading)
+        \item Full extraction and individual assessment (Deep reading and quality assessment)
+        \item Cumulative assessment and preliminary analysis (Big picture compilation)
+        \item Full cumulative synthesis and interpretation (Big picture analysis)
+    \end{enumerate}
+
+\noindent Independent assessment and descriptive extraction refers to the first round of paper reading. This includes the initial read of the literature while extracting purely descriptive information\cite[p.~222]{booth2012}. This phase additionally contains the final relevance assessment. The papers were read breadth-first, one chapter per paper at a time, in order to facilitate a wider perspective from the beginning. However, a comprehensive cumulative analysis is not performed until later stages.\\
+
+\noindent Although a more comprehensive view is suggested in \cite[p.~223]{booth2012}, the second phase focused on the full data extraction and detailed assessment of the individual papers. More detailed notes may be taken about the cumulative evidence. However, cumulative assessment would not yield results before a thorough assessment of the individual papers themselves. Therefore, the purpose of this phase was, instead, to assess the individual works in-depth.\\
+
+\noindent The third phase was solely dedicated to the cumulative assessment of the literature, much in line with \cite[p~.223]{booth2012}. At this stage, the notes and observations from previous phases are compiled and the extracted data is analysed. Initial model, tabulations, and the like may be created. The objective is to finally establish the full picture from the sampled literature. Moreover, contrasts and comparisons should be made at this stage.\\
+
+\noindent In \cite[pp.~223-224]{booth2012} the authors argue for formal synthesis method, like thematic analysis. If phase three established the full picture, then, this stage analysed the picture itself. Example lines of inquiry are consistencies, disagreements, pattern analysis, and clustering\cite[pp.~223-224]{booth2012}. Specifically, this work made use of qualitative content analysis \cite{white2006} to answer specific questions, such as
+
+\begin{itemize}
+    \item How are research problems defined?
+    \item Which domains of research are referred to?
+    \item How was evaluation undertaken?
+    \item What assumptions are made?
+\end{itemize}
+
+The content analysis was performed by uploading each selected article to eMargin\footnote{\url{https://emargin.bcu.ac.uk/}} where noteworthy text passages related to the questions above were highlighted and assigned codes.
+
+\newpage
+\section{Preliminary synthesis results}
+\subsection{Descriptive}
+
+[Everything under this section is subject to change]
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=\linewidth]{Viktor/Images/SLRflowchart.jpg}
+\caption{Flowchart of remaining and excluded articles for each assessment step.}
+\label{fig:SLRFlow}
+\end{figure}
+
+\noindent The first search round accumulated a total of 339 potential hits. The total amount per database (so far) is given below.
+
+\begin{itemize}
+    \item 151 IEEE
+    \item 12 ACM
+    \item 92 Elsevier
+    \item 71 Springer
+\end{itemize}
+
+\noindent The amount excluded per assessment step is summarized by Fig. \ref{fig:SLRFlow}. Full breakdowns are available in appendix A. The exclusions from the cataloguing (renaming and sorting articles) are likely conference papers or otherwise invalid, but currently remains unaccounted for. The final synthesis sample was 16. Fig. \ref{fig:SLRPubsPerDB} shows the distribution across databases. The approximation in Fig. \ref{fig:SLRFlow} was due to unresolved ambiguities, which could easily change the final tally in the future.
+
+\begin{figure}[hb!]
+\centering
+\includegraphics[width=0.8\linewidth]{Viktor/Images/SLR_PubsPerDB.png}
+\caption{The synthesis sample broken down by database.}
+\label{fig:SLRPubsPerDB}
+\end{figure}
+
+
+\begin{figure}[ht!]
+\centering
+\includegraphics[width=0.9\linewidth]{Viktor/Images/SLRYearGraph.png}
+\caption{Sampled articles by publication year.}
+\label{fig:SLRPubYears}
+\end{figure}
+
+\noindent Fig. \ref{fig:SLRPubYears} breaks down the sampled articles by their publication year. Very little can be derived from the small sample, except that no papers before 2009 were encountered. There is, therefore, a 10 year gap between the key paper from 1999 \cite{cohen1999} and the oldest sampled \cite{pudar2009} at this point in time. The discrepancy itself remains unexplained. Notable is that \cite{cohen1999} was not encountered during the search. This implies that additional searching is likely needed, as blind spots may remain.\\
+
+\noindent The articles were spread across many domains. The covered topics were:
+
+\begin{itemize}
+    \item Processes
+        \begin{itemize}
+            \item Development\cite{outkin2019}
+            \item Business\cite{tjoa2010}
+        \end{itemize}
+    \item Network security\cite{durkota2019, angelini2018}
+        \begin{itemize}
+            \item Botnets\cite{konovalov2013}
+        \end{itemize}
+    \item Supply chains\cite{polatidis2018}
+    \item Insider threats\cite{casey2016}
+    \item Online social networks\cite{white2014}
+    \item Infrastructure/SCADA\cite{alves2018, ficco2017}
+        \begin{itemize}
+            \item Power/smart grids\cite{liu2016, zhang2016, queiroz2011, leszczyna2011}
+        \end{itemize}
+    \item Enterprise/Generic IT architectures\cite{holm2014, pudar2009}
+\end{itemize}
+
+\noindent There was, overall, little consistency in the chosen topics. This is reflected in the publication outlets, as well (appendix B). Despite working within the modeling and simulation domain, no articles were encountered in a corresponding journal.
+
+\subsection{Assessment preview}
+\subsubsection{Which simulation methods are prevalent in the cyber security field?}
+
+\noindent The recurring modeling methods encountered during the entire search phase were attack graphs, game theory, bayesian networks, various Markov models, and petri nets. Most of these occur in the literature sample as well. However, the most prevalent models in the sample were game-theoretical\cite{durkota2019, casey2016, white2014} and attack graphs\cite{outkin2019, angelini2018, polatidis2018, holm2014}. However, There were exceptions, such as modeling languages\cite{tjoa2010, holm2014} and the hybrid games-over-graphs\cite{outkin2019}. In some cases, simulation artefacts used or extended OMNet++\cite{konovalov2013, queiroz2011} or Simulink\cite{tjoa2010}. The modeling paradigm can be ambiguous for those papers as well as other framework-oriented articles like \cite{alves2018}.\\
+
+\noindent The simulation paradigm is rarely stated clearly and typically has to be inferred. However, the majority of the sample appears to utilize discrete event simulations. The textbook example is \cite{pudar2009}. Other examples are \cite{outkin2019, white2014, konovalov2013, queiroz2011}. The typical indicators are step-wise executions or implementations of the dynamic models. Simulating with time is not strictly necessary. Some papers additionally mention Monte Carlo simulations\cite{outkin2019, liu2016, zhang2016, holm2014}. MAlSim, applied in \cite{leszczyna2011}, and potentially \cite{casey2016} followed the agent-based paradigm instead.
+
+\subsubsection{How has previous research related to cyber attack simulations been conducted?}
+
+Judging by this sample, previous work focused on devising new types of models or frameworks. Few papers were simulation studies, with exception for \cite{konovalov2013}. Little work appeared to extend or evaluate existing simulation artefacts. No work addressed attack simulations from a theoretical perspective or as a topic in and of itself.\\
+
+\noindent The claimed evaluation strategies were often experiments or case studies. There are instances where both cases and experimental setups appear largely fictional\cite{tjoa2010, leszczyna2011, queiroz2011}. These weaker evaluations are more akin to demonstrations. They would be more convincing with a more objective point of reference. Stronger evaluations, on the other hand, utilized reference architectures\cite{liu2016, zhang2016}, realistic data\cite{polatidis2018}, comparisons with physical equivalents\cite{alves2018}, or even testing in real environments\cite{holm2014}.
+
+\subsubsection{What are the gaps within current cyber attack simulations research?}
+
+This is difficult to answer at the time of writing. It became evident that the generic simulation quality criteria are not readily applicable under all circumstances. Especially since they were more tailored towards evaluating simulation studies or procedures. Furthermore, the variety in domains, methods, and problems addressed makes between-group comparisons more challenging. An established evaluation strategy for attack simulations would be beneficial.
+
+\subsubsection{What is the current state of cyber attack simulations research?}
+
+Attack simulations can be roughly divided into three categories:
+
+\begin{itemize}
+    \item \textit{Adversarial}
+    \item Impact
+    \item Epidemiological
+\end{itemize}
+
+\noindent This review focused solely on adversarial simulations, i.e., simulations of attacker (and possibly defender) actions. Impact simulations, for example \cite{koutsoukos2017}, simulate system behaviors as they are attacked. Epidemiological papers, like \cite{zou2007}, typically model the spread of malware rather than their specific behaviors. MAlSim \cite{leszczyna2011, leszczyna2010} is, in contrast, simulates behaviors and conditions in addition to propagation.\\
+
+Adversarial simulations can be further subdivided according to the problems solved. Game-theoretic papers work on a strategic level and often solve resource-allocation problems\cite{outkin2019, durkota2019, zhang2016, casey2016, white2014,}. This constrast with the more detailed graph-based\cite{polatidis2018, holm2014} or stochastic petri net\cite{pudar2009} approaches. Additionally, the notion of an 'attack' itself takes many forms. It can be anything between typical 'hacker actions' and vulnerabilities\cite{holm2014, angelini2018} to compliance\cite{casey2016}.
+
+\noindent Most attack simulation papers were employed a form of design science. The artefacts are typically model methods or frameworks. Most published artefacts have a striking degree of maturity, especially visible in frameworks. This is likely because they are journals, after all. Conference proceedings might contain more experimental and piece-wise contributions.
+
+
+
+\noindent The reference lists display a curious 'island effect'. This review identified papers across a number of research domains with attack simulations in common. Despite this, citations between groups are virtually nonexistent. Game theory papers cite other game theory papers, Attack graphs cite attack graphs, and so on. Furthermore, references to generic modeling and simulation papers were absent as well. \cite{holm2014} notably bridged the gap between network analyzers and model-driven security, but attack simulations research as a whole is basically an archipelago.
+
+\subsection{Open issues}
+
+\textbf{The line between modeling and simulation:} Whereas attack simulations and criteria can be neatly defined on paper, reality is more complicated. Simulation papers seem to exist on a gradient between modeling and simulations. It is simple to categorize the extremes but difficult to define the tipping point. One possible tiebreaker is including models explicitly designed for simulations and modeling papers which use simulation as an evaluation. The latter could technically be attack simulations since the models are applied.\\
+
+\noindent \textbf{Comparing apples, oranges, grilled chickens, and the kitchen sink:} One challenging aspect of this review is comparing very different models, sometimes across different domains. Even the notion of an attack itself can evidently differ. So, how does one \textit{systematically} compare attack simulations in the end?\\
+        
+\noindent \textbf{Applied simulations v. simulation designs:} With MAlSim specifically, the paper included is \cite{leszczyna2011}. This is an application of the method. However, MAlSim itself is described in \cite{leszczyna2010}. Should the artefact application or the design be prioritized for reviews?
+
+
+\newpage
+\printbibliography
+
+\newpage
+\section{Appendix A - Full Exclusion Breakdowns}
+
+\begin{center}
+\begin{table}[h!]
+\begin{tabular}{ | c | c | c | c | }
+\hline
+Depth & Reason & Count & DB \\
+\hline
+Title/abstract & Conference article & 0 & IEEE \\
+\hline
+Title/abstract & Language issue & 1 & IEEE \\
+\hline
+Title/abstract & No relevance & 10 & IEEE \\
+\hline
+Title/abstract & Not simulation & 42 & IEEE \\
+\hline
+Title/abstract & Not adversarial simulation & 35 & IEEE \\
+\hline
+Limited assessment & No relevance & 1 & IEEE \\
+\hline
+Limited assessment & Not simulation & 40 & IEEE \\
+\hline
+Limited assessment & Not adversarial simulation & 8 & IEEE \\
+\hline
+Synthesis & No relevance & 0 & IEEE \\
+\hline
+Synthesis & Not simulation & 1 & IEEE \\
+\hline
+Synthesis & Not adversarial simulation & 4 & IEEE \\
+\hline
+Synthesis & Uncertain exclusion & 1 & IEEE \\
+\hline
+Synthesis & Excessive overlap & 0 & IEEE \\
+\hline
+Synthesis & Outdated & 0 & IEEE \\
+\hline
+Synthesis & Conference article & 1 & IEEE \\
+\hline
+\end{tabular}
+\caption{\label{table:RelevanceBreakdownIEEE} Full breakdown of excluded IEEE papers with reasons}
+\end{table}
+\end{center}
+
+
+
+\begin{center}
+\begin{table}[h!]
+\begin{tabular}{ | c | c | c | c |}
+\hline
+Depth & Reason & Count & DB \\
+\hline
+Title/abstract & Conference article & 0 & ACM \\
+\hline
+Title/abstract & Language issue & 0 & ACM \\
+\hline
+Title/abstract & No relevance & 0 & ACM \\
+\hline
+Title/abstract & Not simulation & 7 & ACM \\
+\hline
+Title/abstract & Not adversarial simulation & 0 & ACM \\
+\hline
+Limited assessment & No relevance & 0 & ACM \\
+\hline
+Limited assessment & Not simulation & 3 & ACM \\
+\hline
+Limited assessment & Not adversarial simulation & 1 & ACM \\
+\hline
+Synthesis & No relevance & 0 & ACM \\
+\hline
+Synthesis & Not simulation & 0 & ACM \\
+\hline
+Synthesis & Not adversarial simulation & 0 & ACM \\
+\hline
+Synthesis & Uncertain exclusion & 0 & ACM \\
+\hline
+Synthesis & Excessive overlap & 0 & ACM \\
+\hline
+Synthesis & Outdated & 0 & ACM \\
+\hline
+Synthesis & Conference article & 0 & ACM \\
+\hline
+\end{tabular}
+\caption{\label{table:RelevanceBreakdownACM} Full breakdown of excluded ACM papers with reasons}
+\end{table}
+\end{center}
+
+\begin{center}
+\begin{table}[h!]
+\begin{tabular}{ | c | c | c | c |}
+\hline
+Depth & Reason & Count & DB \\
+\hline
+Title/abstract & Conference article & 4 & Elsevier \\
+\hline
+Title/abstract & Language issue & 0 & Elsevier \\
+\hline
+Title/abstract & No relevance & 11 & Elsevier \\
+\hline
+Title/abstract & Not simulation & 26 & Elsevier \\
+\hline
+Title/abstract & Not adversarial simulation & 11 & Elsevier \\
+\hline
+Limited assessment & No relevance & 0 & Elsevier \\
+\hline
+Limited assessment & Not simulation & 28 & Elsevier \\
+\hline
+Limited assessment & Not adversarial simulation & 2 & Elsevier \\
+\hline
+Synthesis & No relevance & 0 & Elsevier \\
+\hline
+Synthesis & Not simulation & 0 & Elsevier \\
+\hline
+Synthesis & Not adversarial simulation & 1 & Elsevier \\
+\hline
+Synthesis & Uncertain exclusion & 3 & Elsevier \\
+\hline
+Synthesis & Excessive overlap & 1 & Elsevier \\
+\hline
+Synthesis & Outdated & 0 & Elsevier \\
+\hline
+Synthesis & Conference article & 0 & Elsevier \\
+\hline
+\end{tabular}
+\caption{\label{table:RelevanceBreakdownElsevier} Full breakdown of excluded Elsevier papers with reasons}
+\end{table}
+\end{center}
+
+\begin{center}
+\begin{table}[h!]
+\begin{tabular}{ | c | c | c | c |}
+\hline
+Depth & Reason & Count & DB \\
+\hline
+Title/abstract & Conference article & 0 & Springer \\
+\hline
+Title/abstract & Language issue & 0 & Springer \\
+\hline
+Title/abstract & No relevance & 4 & Springer \\
+\hline
+Title/abstract & Not simulation & 23 & Springer \\
+\hline
+Title/abstract & Not adversarial simulation & 16 & Springer \\
+\hline
+Limited assessment & No relevance & 0 & Springer \\
+\hline
+Limited assessment & Not simulation & 20 & Springer \\
+\hline
+Limited assessment & Not adversarial simulation & 0 & Springer \\
+\hline
+Synthesis & No relevance & 0 & Springer \\
+\hline
+Synthesis & Not simulation & 3 & Springer \\
+\hline
+Synthesis & Not adversarial simulation & 1 & Springer \\
+\hline
+Synthesis & Uncertain exclusion & 0 & Springer \\
+\hline
+Synthesis & Excessive overlap & 0 & Springer \\
+\hline
+Synthesis & Outdated & 1 & Springer \\
+\hline
+Synthesis & Conference article & 0 & Springer \\
+\hline
+\end{tabular}
+\caption{\label{table:RelevanceBreakdownSpringer} Full breakdown of excluded Springer papers with reasons}
+\end{table}
+\end{center}
+
+
+\newpage
+\section{Appendix B - Breakdown by Journals}
+
+\begin{center}
+\begin{table}[h!]
+\begin{tabular}{ | c | c |}
+\hline
+Journal & Count \\
+\hline
+Computers \& Security & 3 \\
+\hline
+IEEE Transactions on Smart Grid & 2\\
+\hline
+ACM Transactions on Privacy and Security (TOPS) & 1 \\
+\hline
+Computational and Mathematical Organization Theory & 1 \\
+\hline
+Computer Standards \& Interfaces & 1 \\
+\hline
+IEEE Transaction on Dependable and Secure Computing & 1\\
+\hline
+IEEE Transactions on Power Systems & 1\\
+\hline
+IEEE Transactions on Services Computing & 1\\
+\hline
+IEEE Transactions on Visualization and Computer Graphics & 1\\
+\hline
+IET Information Security & 1\\
+\hline
+Journal of Computational Science & 1\\
+\hline
+Journal of Computer and Systems Sciences International & 1\\
+\hline
+Social Network Analysis and Mining & 1\\
+\hline
+\end{tabular}
+\caption{\label{table:JournalBreakdown} Full breakdown of articles per journal.}
+\end{table}
+\end{center}
+
+\newpage
+\section{Appendix C - 5 Most Cited Papers}
+
+\begin{center}
+\begin{table}[h]
+\begin{tabular}{ | m{25em} | c | c |}
+\hline
+Title & Cit & Ref \\
+\hline
+SCADASIM - A Framework for Building SCADA Simulations  & 118 & \cite{queiroz2011}\\
+\hline
+P$^2$CySeMoL: Predictive, Probabilistic Cyber Security Modeling Language & 70 & \cite{holm2014}\\
+\hline
+A Formal Approach Enabling Risk-Aware Business Process Modeling and Simulation & 44 & \cite{tjoa2010}\\
+\hline
+Inclusion of SCADA Cyber Vulnerability in Power System Reliability Assessment Considering Optimal Resources Allocation & 42 & \cite{zhang2016} \\
+\hline
+Power System Risk Assessment in Cyber Attacks Considering the Role of Protection Systems & 40 & \cite{liu2016}\\
+\hline
+\end{tabular}
+\caption{\label{table:TopRefs}The five most cited papers in the sample as of 17th of March. Source: Google Scholar.}
+\end{table}
+\end{center}
+
+\end{document}
