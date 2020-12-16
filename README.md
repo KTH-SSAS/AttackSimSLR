@@ -52,72 +52,48 @@ in markdown. -->
 
 ## Quick Info
 
-- Supervisor: [supervisor's full name](link-to-online-profile)
+- Supervisor: [Robert Lagerström](https://github.com/Chezz81)
 - Active members:
-  - [member 1](link-to-online-profile)
-- Past members:
-  - [First Last](link-to-online-profile)
-- Status: running :green_circle: (or pending :yellow_circle:, completed :orange_circle:)
-- Timeline: [VT-20](self-link-to github-project/milestones)
-- Parent project: [name-of-umbrella-project](link-to-umbrella-project)
+  - [Viktor Engström](https://github.com/viktorengström)
+- Status: running :green_circle: <!--(or pending :yellow_circle:, completed :orange_circle:)-->
+- Timeline: HT2019-Ongoing
 
-### Project links
+<!--### Project links
 
 - post here a list of links to project assets that are not located in the github
   repo
 - [Overleaf project](link-to-overleaf-project)
 - [dropbox folder for large files](link-to-dropbox-folder)
 - [other link](#)
-
+-->
 ## Description
 
-(This section should hold your project's detailed description)
+The repository housing the systematic literature review of tactical cyber attack simulations.  What started out as a simple dive into works similar to the Meta Attack Language simulations ended in a convoluted trek where the definition of cyber attack simulations itself had to be established to make meaningful progress. The body of literature is scattered without a common language. However, the hallmark is _works executing models to generate behaviors which compromise security properties_. The existing literature can be roughly divided into
 
-The idea is to use github.com as a central point of reference for our group's
-projects. A github.com organization ([KTH-SSAS](https://github.com/KTH-SSAS))
-has been created, where all SSAS members are added to. The organization is
-organized in teams that reflect the actual "teams" and collaborations that exist
-in the group.
-
-Each team will create one or more git repos on github.com under the KTH-SSAS
-organization where project assets (e.g. tex documents, small files, code, etc)
-is added. Github also has an issue tracker that can be used to keep track of the
-pending work in a visible way, where other team members or external
-collaborators can keep track of the work ahead and discuss.
-
-This README is meant as a common template for all KTH-SSAS projects. The aim is
-to have a uniform look and feel that is also usable and productive. When you use
-this template, try to conform with its structure. __If it is not
-sufficient/proper for you project, of course feel free to deviate or ignore
-it.__ Or, if you have suggestions, create a [new
-issue](https://github.com/KTH-SSAS/skeleton/issues/new) or [pull
-request](https://github.com/KTH-SSAS/skeleton/pull/new).
-
-To use this skeleton repository as a template for your project, simply create a new repository and select this repo as the template:
-
-
-![Screenshot_20201003_112921](https://user-images.githubusercontent.com/11805218/94988207-dc43c300-056b-11eb-9ae7-7041bd438133.png)
-
-See [this repo](https://github.com/KTH-SSAS/threatmove-iso-21434) for
-an example.
+- Tactical simulations - focused on the specific steps or actions taken to compromise security properties.
+- Strategic simulations - focused on more general behaviors of attackers and, often, defenders as they try to realize security-related goals.
+- Impact simulations - focused on predicting the effect of a cyber attack on a system or entity, rather than the mechanisms of the attacks themselves.
 
 ## Work Products
 
-- [ ] A checklist of pending and completed work products of the project, i.e.
-  project deliverables.
-- [x] An already produced deliverable is marked with a check.
-- [x] If the deliverable can be accessed online (or in the github repo) add
-  a [link](#) to it. For example, if the project includes the production of
-  a paper, link to the published paper in a journal.
-- [ ] If the deliverable is not yet delivered, leave the checkbox unchecked.
+- [x] Initial search plan, including fundamental definitions, criterion, databases, key words, time ranges, and so on.
+- [x] A first search iteration covering IEEE, ACM, Elsevier (ScienceDirect), and Springer from 1999-2019.
+- [x] Cataloging and relevance assessments of the first iteration body of literature.
+- [x] A preliminary synthesis and analysis of the first iteration body of literature.
+- [x] Devise a second set of keywords.
+- [x] A second search iteration covering IEEE, ACM, Elsevier (ScienceDirect), and Springer from 1999-2019.
+- [x] Cataloging and relevance assessments of the second iteration body of literature.
+- [x] Primary qualitative synthesis and analysis.
+- [x] Primary descriptive statistics.
+- [x] Compilation of synthesis and analysis results.
+- [ ] Clean up data and finalize results.
+- [ ] First draft of journal article.
+- [ ] First submission-ready journal article.
+- [ ] First submission attempt.
+- [ ] Published.
 
 ## Resources
-- Add here in a bullet list to resources relevant to the project, for instance:
-- [ISO-21434](https://www.iso.org/standard/70918.html) - PDF needs to be purchased
-- [vehicleLang](https://github.com/mal-lang/vehicleLang)
 - [MAL - Meta Attack  Language](https://mal-lang.org)
-- [SecuriCAD](https://foreseeti.com)
-- [ThreatMOVE project](https://autosec.se/projects/)
 
 <br>
 
