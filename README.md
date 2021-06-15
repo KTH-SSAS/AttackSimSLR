@@ -7,7 +7,7 @@ in markdown. -->
   <img src=".images/top.jpg" alt="Decorative image">
   <br>
   <br>
-  <span>Project Name</span>
+  <span>The Attack Simulation SLR</span>
   <br>
 
   <!-- Below, there are 4 small button-like images. These are called "badges"
@@ -37,17 +37,11 @@ in markdown. -->
     <img src="https://img.shields.io/badge/Overleaf-paper-138a07?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAABfVBMVEUAAABIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDwAAAAcciVhAAAAfXRSTlMAAA8mNj9EQz0yIQhVz+71+/79+fPrZU3k96yDmo36wQEos1pWyR+9tSrjwjkSoF9Fezo3jPZQSm6Til0RmR4Qiysk8YFcDe30kdO8aCPygkwpCtkU3QXwnxu2WXw4R3MM7FRICxZTUQPaBAfnqBXVE2MYZNvEtIQX+MU7S/Pc0IMAAAABYktHRACIBR1IAAAACXBIWXMAAC4jAAAuIwF4pT92AAAAB3RJTUUH5AYYFRgQ3q2QQgAAAX1JREFUOMutUldbwkAQ3At2UQJiiQ1FxYaoaGyo2Dt27Nh7FxuK89+9iH4muTz5uS/J3czuzO4t0f8GY0SSLS09IzMrOyeXmIAT2fPyHbITcBW4C4vECsUl+A4FKDVXYKzsBy6vqISnSsivTqHemto6XsLHBAP1GtwgNTZp32qLHvh1s78l8FWm1aKFNqCdgooGOzpIFOiEGiR7V3dPb1+o3yJ/AG5psIBnD4QtZzgEDI+MfsmrYyR2yPXHJ6DmT05plGlxxDOYJe+cLSxFQvOcsWC2UAwsLkU0Z4yWV/iUVk2EKEBrKeecsQ5sGNvYVLCl09vmIsYCfhk7Okc5biBmIOy6sKc77h8AhwbCkQsB3fGYE+wGQkyGQyfh4xJBA+FEBU5/bZ9xk+dGlx7g4vLncHUN3Jhe65bnrFxqO81Y7h1f2XvzqLVtjD7EieKPT/y3j5n3lZ6hixer9379xReICfvCaySeFdnplN/eE+I6pRgUTy5+JBNkjf89PgFCeG27lghtGAAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wNi0yNFQyMToyNDoxNiswMDowMFNIgJYAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDYtMjRUMjE6MjQ6MTYrMDA6MDAiFTgqAAAAAElFTkSuQmCC" />
   </a>
   <br>
-</h1>
-
-<p align="justify">
-  A README template for projects of the SSAS group.
-<p>
 
 ## Table of contents
 - [Quick Info](#quick-info)
   * [Project links](#project-links)
 - [Description](#description)
-- [Work Products](#work-products)
 - [Resources](#resources)
 
 ## Quick Info
@@ -68,29 +62,11 @@ in markdown. -->
 -->
 ## Description
 
-The repository housing the systematic literature review of tactical cyber attack simulations.  What started out as a simple dive into works similar to the Meta Attack Language simulations ended in a convoluted trek where the definition of cyber attack simulations itself had to be established to make meaningful progress. The body of literature is scattered without a common language. However, the hallmark is _works executing models to generate behaviors which compromise security properties_. The existing literature can be roughly divided into
+The repository tracking the systematic literature review of tactical cyber attack simulations.  What started out as a simple dive into works similar to the Meta Attack Language simulations ended in a convoluted trek where the definition of cyber attack simulations itself had to be established to make meaningful progress. The body of literature is scattered without a common language. However, the hallmark is _works executing models to generate behaviors which compromise security properties_. The existing literature can be roughly divided into
 
 - Tactical simulations - focused on the specific steps or actions taken to compromise security properties.
 - Strategic simulations - focused on more general behaviors of attackers and, often, defenders as they try to realize security-related goals.
 - Impact simulations - focused on predicting the effect of a cyber attack on a system or entity, rather than the mechanisms of the attacks themselves.
-
-## Work Products
-
-- [x] Initial search plan, including fundamental definitions, criterion, databases, key words, time ranges, and so on.
-- [x] A first search iteration covering IEEE, ACM, Elsevier (ScienceDirect), and Springer from 1999-2019.
-- [x] Cataloging and relevance assessments of the first iteration body of literature.
-- [x] A preliminary synthesis and analysis of the first iteration body of literature.
-- [x] Devise a second set of keywords.
-- [x] A second search iteration covering IEEE, ACM, Elsevier (ScienceDirect), and Springer from 1999-2019.
-- [x] Cataloging and relevance assessments of the second iteration body of literature.
-- [x] Primary qualitative synthesis and analysis.
-- [x] Primary descriptive statistics.
-- [x] Compilation of synthesis and analysis results.
-- [ ] Clean up data and finalize results.
-- [ ] First draft of journal article.
-- [ ] First submission-ready journal article.
-- [ ] First submission attempt.
-- [ ] Published.
 
 ## Resources
 - [MAL - Meta Attack  Language](https://mal-lang.org)
