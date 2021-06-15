@@ -1,0 +1,1 @@
+This folder contains writing documenting the SLR process. This is primarily for documentation and transparency purposes, mainly to benefit peers wanting to conduct a literature review. It is not part of the primary article, but may carry some historical interest.

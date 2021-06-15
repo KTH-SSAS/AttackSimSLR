@@ -1,0 +1,13 @@
+DB,J/C,Year,"Author
+",screfs,schrefs,Title
+IEEE,J,2014,Holm et al,35,83,"P2CySeMoL: Predictive, Probabilistic Cyber Security Modeling Language"
+IEEE,C,2016,Zhang et al,2,4,Attack Simulation based Software Protection Assessment Method
+IEEE,C,2014,Abercrombie et al,6,11,Security Analysis of Selected AMI Failure Scenarios Using Agent Based Game Theoretic Simulation
+IEEE,C,2012,Hassell et al,6,22,"Evaluating Network Cyber Resiliency Methods using Cyber Threat, Vulnerability and Defense Modeling and Simulation"
+IEEE,C,2003,Kotenko,25,39,Active Vulnerability Assessment of Computer Networks by Simulation of Complex Remote Attacks
+ACM,C,2018,Johnson et al,11,35,A meta language for threat modeling and attack simulations
+ACM,C,2013,Kiesling et al,12,11,SIMULATION-BASED OPTIMIZATION OF INFORMATION SECURITY CONTROLS AN ADVERSARY-CENTRIC APPROACH
+ScienceDirect,J,2009,Pudar et al,28,41,PENET: A practical method and tool for integrated modeling of security attacks and countermeasures
+ScienceDirect,C,2015,Perkins & Muller,5,9,Using Discrete Event Simulation to Model Attacker Interactions with Cyber and Physical Security Systems
+Springer,C,2018,Bajic & Becker,1,1,Attack Simulation for a Realistic Evaluation and Comparison of Network Security Techniques
+Springer,C,2001,Chi et al,27,103,Network Security Modeling and Cyber Attack Simulation Methodology

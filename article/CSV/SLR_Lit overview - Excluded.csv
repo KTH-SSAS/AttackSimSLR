@@ -1,0 +1,647 @@
+DB,J/C,Year,Author,Title,Raw title,Exclusion
+IEEE,J,2016,Zhang et al,Inclusion of SCADA Cyber Vulnerability in Power System Reliability Assessment Considering Optimal Resources Allocation,7372486,FA-NAS
+IEEE,J,2019,Bowen et al,Development of an Interaction Simulator for the Scenario Analysis of Physical Protection Systems,8743418,FA-NAS
+IEEE,J,2018,Angelini et al,Vulnus: Visual Vulnerability Analysis for Network Security,8443131,FA-NAS
+IEEE,J,2013,Sommestad et al,CySeMoL,6378394,FA-NAS
+IEEE,J,2017,Liu et al,Power System Risk Assessment in Cyber Attacks Considering the Role of Protection Systems,7439817,FA-NAS
+IEEE,J,2017,Wu et al,"Vulnerabilities, Attacks, and Countermeasures in Balise-Based Train Control Systems",7534834,FA-NAS
+IEEE,J,2017,Rass et al,Physical Intrusion Games—Optimizing Surveillance by Simulation and Game Theory,7898493,FA-NAS
+IEEE,J,2017,Koutsokos et al,SURE: A Modeling and Simulation Integration Platform for Evaluation of SecUre and REsilient Cyber–Physical Systems,8010538,FA-NAS
+IEEE,J,2012,Romero et al,Simulation framework for security threats in cognitive radio networks,6231143,FA-NAS
+IEEE,J,2011,Leszczyna et al,Approach to security assessment of critical infrastructures’ information systems,6022942,Comp
+IEEE,J,2011,Queiroz et al,SCADASim—A Framework for Building SCADA Simulations,6009221,FA-NAS
+IEEE,J,2010,Tjoa et al,A Formal Approach Enabling Risk-Aware Business Process Modeling and Simulation,5467019,FA-NAS
+IEEE,J,2017,Golait & Hubballi,Detecting Anomalous Behavior in VoIP Systems: A Discrete Event System Modeling,7755836,FA-NS
+IEEE,J,2019,Pawlick et al,Modeling and Analysis of Leaky Deception Using Signaling Games With Evidence,8573896,LA-NAS
+IEEE,J,2018,Mohd et al,Simulation and Analysis of DDoS Attack on Connected Autonomous Vehicular Network using OMNET++,8796717,LA-NAS
+IEEE,J,2018,Brown et al,Risk of Cyber-Physical Attack via Load With Emulated Inertia Control,7911324,LA-NAS
+IEEE,J,2018,Ranjbar et al,Game framework for optimal allocation of spinning reserve to confront intelligent physical attacks on power system,8613167,LA-NAS
+IEEE,J,2014,Wang et al,Modelling and simulating worm propagation in static and dynamic traffic,6766935,LA-NAS
+IEEE,J,2014,Leite da Silva et al,Probabilistic Evaluation of Substation Criticality Based on Static and Dynamic System Performances,6685944,LA-NAS
+IEEE,J,2012,Poolsappasit et al,Dynamic Security Risk Management Using Bayesian Attack Graphs,5936075,LA-NAS
+IEEE,J,2010,Yu et al,Self-Disciplinary Worms and Countermeasures: Modeling and Analysis,5313807,LA-NAS
+IEEE,J,2007,Zou et al,Modeling and Simulation Study of the Propagation and Defense of Internet E-mail Worms,4198176,LA-NAS
+IEEE,J,2019,Yi et al ,An Intelligent Communication Warning Vulnerability Detection Algorithm Based on IoT Technology,8896934,LA-NS
+IEEE,J,2019,Xu et al,Q-Learning Based Physical-Layer Secure Game Against Multiagent Attacks,8686092,LA-NS
+IEEE,J,2019,Perkin et al,Framework for trajectory-based probabilistic security assessment of power systems,8689369,LA-NS
+IEEE,J,2019,Guang et al,Research on Key Technologies of Network Security Situational Awareness for Attack Tracking Prediction,8809464,LA-NS
+IEEE,J,2019,Hong et al,Cyber Attack Resilient Distance Protection and Circuit Breaker Control for Digital Substations,8556464,LA-NS
+IEEE,J,2019,Albunashee et al,A Testbed for Detecting False Data Injection Attacks in Systems with Distributed Energy Resources,8876668,LA-NS
+IEEE,J,2018,Zhang et al,Attack-Defense Differential Game Model for Network Defense Strategy Selection,8528354,LA-NS
+IEEE,J,2018,Barni & Tondi,Adversarial Source Identification Game With Corrupted Training,8292879,LA-NS
+IEEE,J,2018,Wang et al,A Vulnerability Assessment Method in Industrial Internet of Things Based on Attack Graph and Maximum Flow,8290918,LA-NS
+IEEE,J,2018,Zhang et al,A Fuzzy Probability Bayesian Network Approach for Dynamic Cybersecurity Risk Assessment in Industrial Control Systems,8093698,LA-NS
+IEEE,J,2018,Wei et al,Stochastic Games for Power Grid Protection Against Coordinated Cyber-Physical Attacks,7465836,LA-NS
+IEEE,J,2018,Hao et al,Likelihood Analysis of Cyber Data Attacks to Power Systems With Markov Decision Processes,7742922,LA-NS
+IEEE,J,2018,Sun et al,Using Bayesian Networks for Probabilistic Identification of Zero-Day Attack Paths,8327913,LA-NS
+IEEE,J,2018,Fu et al,Security Assessment for Cyber Physical Distribution Power System Under Intrusion Attacks,8410913,LA-NS
+IEEE,J,2018,George & Thampi,A Graph-Based Security Framework for Securing Industrial IoT Networks from Vulnerability Exploitations,8430731,LA-NS
+IEEE,J,2017,Tang et al,Combating Full-Duplex Active Eavesdropper: A Hierarchical Game Perspective,7801047,LA-NS
+IEEE,J,2016,Almohri et al,Security Optimization of Dynamic Networks with Probabilistic Graph Modeling and Linear Programming,7056435,LA-NS
+IEEE,J,2016,Hoque et al,Automated Adversarial Testing of Unmodified Wireless Routing Implementations,7401140,LA-NS
+IEEE,J,2016,Zhang et al,Multimodel-Based Incident Prediction and Risk Assessment in Dynamic Cybersecurity Protection for Industrial Control Systems,7360925,LA-NS
+IEEE,J,2015,Law et al,Security Games for Risk Minimization in Automatic Generation Control,6824274,LA-NS
+IEEE,J,2015,Zhang et al,Power System Reliability Evaluation With SCADA Cybersecurity Considerations,7042739,LA-NS
+IEEE,J,2015,Dai et al,Exploring risk flow attack graph for security risk assessment,7295677,LA-NS
+IEEE,J,2014,Ismail et al,A Game Theoretical Analysis of Data Confidentiality Attacks on Smart-Grid AMI,6840293,LA-NS
+IEEE,J,2014,Carter et al,Probabilistic Threat Propagation for Network Security,6847231,LA-NS
+IEEE,J,2014,Wang et al,k -Zero Day Safety: A Network Security Metric for Measuring the Risk of Unknown Vulnerabilities,6529081,LA-NS
+IEEE,J,2013,Backhaus et al,Cyber-Physical Security: A Game Theory Model of Humans Interacting Over Control Systems,6665110,LA-NS
+IEEE,J,2013,Chung et al,NICE: Network Intrusion Detection and Countermeasure Selection in Virtual Network Systems,6419708,LA-NS
+IEEE,J,2012,"Bhattacharya & Ghosh
+",Analytical framework for measuring network security using exploit dependency graph,6404334,LA-NS
+IEEE,J,2011,Yuan et al,Modeling Load Redistribution Attacks in Power Systems,5754636,LA-NS
+IEEE,J,2011,Hahn & Govindarasu,Cyber Attack Exposure Evaluation Framework for the Smart Grid,6025254,LA-NS
+IEEE,J,2011,Ten et al,Anomaly Detection for Cybersecurity of the Substations,6003810,LA-NS
+IEEE,J,2011,Goel et al,The Effect of Eavesdroppers on Network Connectivity: A Secrecy Graph Approach,5759739,LA-NS
+IEEE,J,2010,Liu et al,Security Assessment for Communication Networks of Power Control Systems Using Attack Graph and MCDM,5491356,LA-NS
+IEEE,J,2010,Ten et al,Cybersecurity for Critical Infrastructures: Attack and Defense Modeling,5477189,LA-NS
+IEEE,J,2010,Lanotte et al,Time and Probability-Based Information Flow Analysis,5383372,LA-NS
+IEEE,J,2009,Chen & Leneutre,A Game Theoretical Framework on Intrusion Detection in Heterogeneous Networks,4815406,LA-NS
+IEEE,J,2009,Bompard et al,Risk Assessment of Malicious Attacks Against Power Systems,5164937,LA-NS
+IEEE,J,2008,Ten et al,Vulnerability Assessment of Cybersecurity for SCADA Systems,4652578,LA-NS
+IEEE,J,2008,Fava et al,Projecting Cyberattacks Through Variable-Length Markov Models,4539273,LA-NS
+IEEE,J,2014,Anwar & Malik,Can a DDoS Attack Meltdown My Data Center? A Simulation Study and Defense Strategies,6825828,Pub
+IEEE,J,2019,Liu,Modeling Ransomware Spreading by a Dynamic Node-Level Method,8859209,TA-NAS
+IEEE,J,2019,Hatledal et al,A Language and Platform Independent Co-Simulation Framework Based on the Functional Mock-Up Interface,8788514,TA-NAS
+IEEE,J,2019,Soltan et al,Line Failure Detection After a Cyber-Physical Attack on the Grid Using Bayesian Regression,8686241,TA-NAS
+IEEE,J,2019,"Zhao et al
+",A Link-Based Variable Probability Learning Approach for Partially Overlapping Channels Assignment on Multi-Radio Multi-Channel Wireless Mesh Information-Centric IoT Networks,8679989,TA-NAS
+IEEE,J,2019,Cebeci et al,Consecutive Market and Network Simulations to Optimize Investment and Operational Decisions Under Different RES Penetration Scenarios,8533449,TA-NAS
+IEEE,J,2019,Guan et al,A Multi-Layered Scheme for Distributed Simulations on the Cloud Environment,7152867,TA-NAS
+IEEE,J,2019,Yang et al,Security Research on Wireless Networked Control Systems Subject to Jamming Attacks,8329565,TA-NAS
+IEEE,J,2019,Niazi & Faheem,A Bayesian Game-Theoretic Intrusion Detection System for Hypervisor-Based Software Defined Networks in Smart Grids,8746112,TA-NAS
+IEEE,J,2018,Smith & Pate-cornell,Cyber Risk Analysis for a Smart Grid: How Smart is Smart Enough? A Multiarmed Bandit Approach to Cyber Security Investment,8302529,TA-NAS
+IEEE,J,2018,Hota & Sundaram,Interdependent Security Games on Networks Under Behavioral Probability Weighting,7544460,TA-NAS
+IEEE,J,2018,Liu et al,Malware Propagations in Wireless Ad Hoc Networks,7792126,TA-NAS
+IEEE,J,2018,Wu & Wang,A Game Theory Based Collaborative Security Detection Method for Internet of Things Systems,8248797,TA-NAS
+IEEE,J,2017,Huang et al,A Distributed Computing Platform Supporting Power System Security Knowledge Discovery Based on Online Simulation,7475869,TA-NAS
+IEEE,J,2017,Wang et al,Strategic Antieavesdropping Game for Physical Layer Security in Wireless Cooperative Networks,7924225,TA-NAS
+IEEE,J,2017,Jajodia et al,A Probabilistic Logic of Cyber Deception,7937934,TA-NAS
+IEEE,J,2016,Adhikari et al,"WAMS Cyber-Physical Test Bed for Power System, Cybersecurity Study, and Data Mining",7438914,TA-NAS
+IEEE,J,2016,Khalid et al,A Bayesian Algorithm to Enhance the Resilience of WAMS Applications Against Cyber Attacks,7438893,TA-NAS
+IEEE,J,2016,Kayner & Sivrikaya,Distributed Attack Graph Generation,7087377,TA-NAS
+IEEE,J,2016,Ma et al,Cloud Computing for Power System Simulations at ISO New England—Experiences and Challenges,7471484,TA-NAS
+IEEE,J,2015,Li,Framework of Probabilistic Power System Planning,7086150,TA-NAS
+IEEE,J,2015,Gupte & Wang,Secure Power Grid Simulation on Cloud,7001089,TA-NAS
+IEEE,J,2015,Yu et al,Fool Me If You Can: Mimicking Attacks and Anti-Attacks in Cyberspace,6601602,TA-NAS
+IEEE,J,2014,Siaterlis et al,EPIC: A Testbed for Scientifically Rigorous Cyber-Physical Security Experimentation,6646193,TA-NAS
+IEEE,J,2013,Queiroz et al,A Probabilistic Model to Predict the Survivability of SCADA Systems,6373723,TA-NAS
+IEEE,J,2012,Zhu et al,GUIDEX: A Game-Theoretic Incentive-Based Mechanism for Intrusion Detection Networks,6354280,TA-NAS
+IEEE,J,2009,Kuo et al,Dynamic Routing with Security Considerations,4522540,TA-NAS
+IEEE,J,2007,Zhu et al,Private and Secure Service Discovery via Progressive and Probabilistic Exposure,4339200,TA-NAS
+IEEE,J,2007,Berizzi et al ,A Monte Carlo Approach for TTC Evaluation,4162577,TA-NAS
+IEEE,J,2006,Hiskens & Alseddiqui,"Sensitivity, Approximation, and Uncertainty in Power System Dynamic Simulation",1717585,TA-NAS
+IEEE,J,2006,Thalassinakis et al,Method Combining ANNs and Monte Carlo Simulation for the Selection of the Load Shedding Protection Strategies in Autonomous Power Systems,1717558,TA-NAS
+IEEE,J,2003,Ni et al,Online Risk-Based Security Assessment,1178806,TA-NAS
+IEEE,J,2003,Hegazy et al,Adequacy Assessment of Distributed Generation Systems Using Monte Carlo Simulation,1178761,TA-NAS
+IEEE,J,2002,Su et al,Simulation Study of Internet Based Inter Control Center Data Exchange for Complete Network Modeling,1137610,TA-NAS
+IEEE,J,1999,Billinton & Karki,Application of Monte Carlo Simulation to Generating System Well-being Analysis,780954,TA-NAS
+IEEE,J,2019,Zhang et al,SPSR-FSPG: A Fast Simulative Password Set Generation Algorithm,8879487,TA-NS
+IEEE,J,2019,Oozeer & Haykin,Cognitive Risk Control for Mitigating Cyber-Attack in Smart Grid,8822705,TA-NS
+IEEE,J,2019,Mao et al,Harvesting and Threat Aware Security Configuration Strategy for IEEE 802.15.4 Based IoT Networks,8786931,TA-NS
+IEEE,J,2019,Ahmed et al,Cyber Physical Security Analytics for Anomalies in Transmission Protection Systems,8762160,TA-NS
+IEEE,J,2019,Khuntia et al,Risk-based security assessment of transmission line overloading considering spatio-temporal dependence of load and wind power using vine copula,8759810,TA-NS
+IEEE,J,2019,Combita et al,Mitigating Sensor Attacks Against Industrial Control Systems,8758093,TA-NS
+IEEE,J,2019,Nia et al,Detecting new generations of threats using attribute-based attack graphs,8736540,TA-NS
+IEEE,J,2019,Yan et al,Attack Detection for Securing Cyber Physical Systems,8728231,TA-NS
+IEEE,J,2019,Zhao et al,Composite Power System Reliability Evaluation Based on Enhanced Sequential Cross-Entropy Monte Carlo Simulation,8684335,TA-NS
+IEEE,J,2019,Clark et al,On the Structure and Computation of Random Walk Times in Finite Graphs,8626505,TA-NS
+IEEE,J,2019,Kurt et al,Online Cyber-Attack Detection in Smart Grid: A Reinforcement Learning Approach,8514804,TA-NS
+IEEE,J,2019,Duncan et al,A Combined Attack-Tree and Kill-Chain Approach to Designing Attack-Detection Strategies for Malicious Insiders in Cloud Computing,8885401,TA-NS
+IEEE,J,2018,Sethuraman et al,Intrusion detection system for detecting wireless attacks in IEEE 802.11 networks,8755932,TA-NS
+IEEE,J,2018,Ding et al,Risk assessment-based long-term transmission system hardening under prior probabilistic information,8613147,TA-NS
+IEEE,J,2018,Gow et al,Anomaly Detection in Complex Real World Application Systems,8101009,TA-NS
+IEEE,J,2018,Ameli et al,Attack Detection and Identification for Automatic Generation Control Systems,8303709,TA-NS
+IEEE,J,2018,Min et al,Defense Against Advanced Persistent Threats in Dynamic Cloud Storage: A Colonel Blotto Game Approach,8374881,TA-NS
+IEEE,J,2018,Ghafir et al,A Basic Probability Assignment Methodology for Unsupervised Wireless Intrusion Detection,8409949,TA-NS
+IEEE,J,2018,Tan et al,Severe Cyber Attack for Maximizing the Total Loadings of Large-Scale Attacked Branches,8434103,TA-NS
+IEEE,J,2018,Ho,Efficient and Robust Detection of Code-Reuse Attacks Through Probabilistic Packet Inspection in Industrial IoT Devices,8471162,TA-NS
+IEEE,J,2018,Suo et al,Merging safety and cybersecurity analysis in product design,8490332,TA-NS
+IEEE,J,2018,Taherifard et al,Vulnerability modelling of crypto-chips against scan-based attacks,8513944,TA-NS
+IEEE,J,2017,Karimipour & Dinavahi,Robust Massively Parallel Dynamic State Estimation of Power Systems Against Cyber-Attack,8234576,TA-NS
+IEEE,J,2017,Sedjemaci et al,An Accurate Security Game for Low-Resource IoT Devices,7920414,TA-NS
+IEEE,J,2017,Oliviera de Sa et al,Covert Attacks in Cyber-Physical Control Systems,7866869,TA-NS
+IEEE,J,2017,Fang et al,Virtual Multipath Attack and Defense for Location Distinction in Wireless Networks,7445254,TA-NS
+IEEE,J,2017,Hu et al,Mimic defense: a designed-in cybersecurity defense framework,8332245,TA-NS
+IEEE,J,2016,Heartfield et al,You Are Probably Not the Weakest Link: Towards Practical Prediction of Susceptibility to Semantic Social Engineering Attacks,7587431,TA-NS
+IEEE,J,2016,Ciapessoni et al,Probabilistic Risk-Based Security Assessment of Power Systems Considering Incumbent Threats and Uncertainties,7432051,TA-NS
+IEEE,J,2016,Zhang et al,Network Diversity: A Security Metric for Evaluating the Resilience of Networks Against Zero-Day Attacks,7378495,TA-NS
+IEEE,J,2015,Ahmadzadegan & Keshavarzi,Technical Performance Simulation of IDS Within IEEE 802.16,7350072,TA-NS
+IEEE,J,2015,Shar et al,Web Application Vulnerability Prediction Using Hybrid Program Analysis and Machine Learning,6963442,TA-NS
+IEEE,J,2015,Mousavian et al,A Probabilistic Risk Mitigation Model for Cyber-Attacks to PMU Networks,6816087,TA-NS
+IEEE,J,2014,Mo et al,Detecting Integrity Attacks on SCADA Systems,6612700,TA-NS
+IEEE,J,2014,Li & Wang,Quickest Attack Detection in Multi-Agent Reputation Systems,6756967,TA-NS
+IEEE,J,2013,Rührmair et al,PUF Modeling Attacks on Simulated and Silicon Data,6587277,TA-NS
+IEEE,J,2012,Idika & Bhargava,Extending Attack Graph-Based Security Metrics and Aggregating Their Application,5611550,TA-NS
+IEEE,J,2011,Kosut et al,Malicious Data Attacks on the Smart Grid,6032057,TA-NS
+IEEE,J,2010,Zeng et al,Random-Walk Based Approach to Detect Clone Attacks in Wireless Sensor Networks,5472424,TA-NS
+IEEE,J,2009,Xiao et al,Power System Risk Assessment and Control in a Multiobjective Framework,4682627,TA-NS
+IEEE,J,2008,Chen et al,Defense against Primary User Emulation Attacks in Cognitive Radio Networks,4413138,TA-NS
+IEEE,J,2008,Tague et al,Evaluating the Vulnerability of Network Traffic Using Joint Security and Routing Analysis,4668352,TA-NS
+IEEE,J,2019,West et al,Automatic Identification of Critical Digital Assets,8855281,TA-NR
+IEEE,J,2019,Saikrishna & Ray,MML Inference of Hierarchical Probabilistic Finite State Machine,8854535,TA-NR
+IEEE,J,2019,Fiscko et al,Control of Parametric Games,8796274,TA-NR
+IEEE,J,2019,Bienias et al,Architecture of Anomaly Detection Module for the Security Operations Center,8795372,TA-NR
+IEEE,J,2019,Homsi et al,Game Theoretic-based Approaches for Cybersecurity-aware Virtual Machine Placement in Public Cloud Clusters,8752904,TA-NR
+IEEE,J,2017,Padmanabhan & Manickavasagam,Scalable and Distributed Detection Analysis on Wormhole Links in Wireless Sensor Networks for Networked Systems,8166738,TA-NR
+IEEE,J,2013,Cesare et al,Malwise—An Effective and Efficient Classification System for Packed and Polymorphic Malware,6171162,TA-NR
+IEEE,J,2009,Huddleston & Brown,A Statistical Threat Assessment,5235103,TA-NR
+IEEE,J,2008,Naruse et al,Design and Simulation of a Nanophotonic Traceable Memory Using Localized Energy Dissipation and Hierarchy of Optical Near-Field Interactions,4359145,TA-NR
+IEEE,J,2000,Xue et al,Quantitative Assessments for Transient Voltage Security,871736,TA-NR
+IEEE,J,2010,Ramos et al,Analysis of Electrical Industrial Systems Using Probabilistic Networks,5623502,LANG
+IEEE,C,2018,Umnitsyn et al,Simulation of Malicious Scenarios using Multi-Agent Systems,,FA-NAS
+IEEE,C,2018,El Hachem et al,Extending a Multi-Agent Systems Simulation Architecture for Systems-of-Systems Security Analysis,,FA-NAS
+IEEE,C,2014,Kiesling et al,Evolving Secure Information Systems through Attack Simulation,,Comp
+IEEE,C,2009,Pardue et al,A Risk Assessment Model for Voting Systems using Threat Trees and Monte Carlo Simulation,,FA-NAS
+IEEE,C,2009,HongShan et al,The Research of Simulation for Network Security Based on System Dynamics,,FA-NAS
+IEEE,C,2019,Hayward et al,Adding Cyberattacks To An Industry-Leading CAN Simulator,,FA-NAS
+IEEE,C,2019,Tuptuk et al,A Co-simulation Environment for Security of Smart Buildings,,FA-NAS
+IEEE,C,2019,Makinde et al,Distributed Network Behaviour Prediction Using Machine Learning and Agent-based Micro Simulation,,FA-NAS
+IEEE,C,2019,Lekidis & Barosan,Model-based simulation and threat analysis of in-vehicle networks,,FA-NAS
+IEEE,C,2018,Tun et al,Estimation of Information System Security Using Hybrid Simulation in AnyLogic,,FA-NAS
+IEEE,C,2018,Nichols et al,Methodology to Estimate Attack Graph System State from a Simulation of a Nuclear Research Reactor,,FA-NAS
+IEEE,C,2018,Lerums et al,"Simulation Modeling Cyber Threats, Risks, and Prevention Costs",,FA-NAS
+IEEE,C,2017,Baluta et al,MODELING THE EFFECTS OF INSIDER THREATS ON CYBERSECURITY OF COMPLEX SYSTEMS,,FA-NAS
+IEEE,C,2011,Tao et al,Research on the simulation model of network attacks,,FA-NAS
+IEEE,C,2017,Rashid et al,Modeling and Simulation of Cyberattacks for Resilient Cyber-Physical Systems,,FA-NAS
+IEEE,C,2016,Krall et al,Assessing the Likelihood of Cyber Network Infiltration Using Rare-Event Simulation,,FA-NAS
+IEEE,C,2016,Lupin et al,Hybrid Modelling as a Tool for Analysis of Information Systems Security,,FA-NAS
+IEEE,C,2015,Shahzad et al,A SCADA Intermediate Simulation Platform to Enhance the System Security,,FA-NAS
+IEEE,C,2014,Vasenin et al,Environment for Hybrid Simulation of Information Security Solutions for Grid and Cloud-systems,,FA-NAS
+IEEE,C,2014,Alcorn & Chow,A Framework for Large-Scale Modeling and Simulation of Attacks on an OpenFlow Network,,FA-NAS
+IEEE,C,2012,Han & Liu,Based on DEVS Virtualization Security Agent Simulation Modeling,,FA-NAS
+IEEE,C,2012,Enache et al,Expert system for simulating the behaviour of the cybernetic offenders,,FA-NAS
+IEEE,C,2012,Detken et al,Simulation environment for mobile virtualized security appliances,,FA-NAS
+IEEE,C,2010,Chang et al,A Simulation Model of Cyber Threats for Energy Metering Devices in a Secondary Distribution Network,,FA-NAS
+IEEE,C,2009,Leeuwen et al,"SIMULATED. EMULATED, AND PHYSICAL INVESTIGATIVE ANALYSIS (SEPIA) OF NETWORKED SYSTEMS",,FA-NAS
+IEEE,C,2009,Kerin et al,Dynamic security assessment using time-domain simulator,,FA-NAS
+IEEE,C,2009,He et al,EA-CPNsim: A CPN-based simulation platform for Analysis and defense design of Internet end-systems targeted attacks,,FA-NAS
+IEEE,C,2008,Chiong & Dhakal,Modelling Database Security through Agent-based Simulation,,FA-NAS
+IEEE,C,2009,Khazan & Azgomi,A Distributed Attack Simulation for Quantitative Security Evaluation using SimEvents,,FA-NAS
+IEEE,C,2006,Breech et al,An Attack Simulator for Systematically Testing Program-based Security Mechanisms,,FA-NAS
+IEEE,C,2007,Millman et al,A Python-based MPI framework for exploring an adaptive fuzzy-agent approach to simulating large-scale non-cooperative games,,FA-NAS
+IEEE,C,2005,Tiri et al,Simulation Models for Side-Channel Information Leaks,,FA-NAS
+IEEE,C,2005,Liao et al,Petri Net-based Modeling of Switching Arrangements & Simulation,,FA-NAS
+IEEE,C,2003,Sridhar et al,Multi agent Simulation using Discrete Event and Soft-computing Methodologies,,FA-NAS
+IEEE,C,2018,Vishal & Johari,SOAiCE: Simulation of Attacks in Cloud Computing Environment,,FA-NS
+IEEE,C,2010,Lai et al,An Analyzer-based Software Security Measurement Model for Enhancing Software System Security,,FA-NS
+IEEE,C,2008,Eom et al,Active Cyber Attack Model for Network system’s Vulnerability Assessment,,FA-NS
+IEEE,C,2006,Kusters,Simulation-Based Security with Inexhaustible Interactive Turing Machines,,FA-NS
+IEEE,J,2019,Li et al,Graphical Evolutionary Game Model of Virus-Based Intrusion to Power System for Long-Term Cyber-Security Risk Evaluation,,LA-NAS
+IEEE,J,2019,Tong et al,Flexible hardware-in-the-loop testbed for cyber physical power system simulation,,LA-NAS
+IEEE,C,2019,Zhang et al,Cyber-Physical Simulation Platform for Security Assessment of Transactive Energy Systems,,LA-NAS
+IEEE,C,2019,Prabha & Sankaran,An Experimental Platform for Security of Cyber Physical Systems,,LA-NAS
+IEEE,C,2019,Hoffmann et al,Identification and Simulation of a Denial-of-Sleep Attack on Open Metering System,,LA-NAS
+IEEE,C,2019,Fritz et al,Simulation of Man in the Middle Attack On Smart Grid Testbed,,LA-NAS
+IEEE,C,2019,Blasch et al,A STUDY OF LIGHTWEIGHT DDDAS ARCHITECTURE FOR REAL-TIME PUBLIC SAFETY APPLICATIONS THROUGH HYBRID SIMULATION,,LA-NAS
+IEEE,C,2019,Ahmad et al,Development of SCADA Simulator using Omnet++,,LA-NAS
+IEEE,C,2018,Yi et al,SIMULATION-BASED STOCHASTIC PROGRAMMING TO GUIDE REAL-TIME SCHEDULING FOR SMART POWER GRIDS UNDER CYBER ATTACKS,,LA-NAS
+IEEE,C,2018,Wang et al,A Semiphysical simulation testbed for cybersecurity,,LA-NAS
+IEEE,C,2018,Mashima et al,Securing Substations through Command Authentication Using On-the-fly Simulation of Power System Dynamics,,LA-NAS
+IEEE,C,2018,Lavrov et al,Computer Simulation of Discrete Human-Machine Interaction for Providing Reliability and Cybersecurity of Critical Systems,,LA-NAS
+IEEE,C,2018,Kondoro et al,A simulation Model for the Analysis of Security Attacks in Advanced Metering Infrastructure,,LA-NAS
+IEEE,C,2018,Cui et al,ANDES: A Python-Based Cyber-Physical Power System Simulation Tool,,LA-NAS
+IEEE,C,2018,Chiocchio et al,Integrated Simulation Environments for Vehicular Communications in Cooperative Road Transportation Systems,,LA-NAS
+IEEE,C,2018,Brokalakis et al,"An Open-Source Extendable, Highly-Accurate and Security Aware Simulator for Cloud Applications",,LA-NAS
+IEEE,C,2018,Blazic et al,Implementation of SYN Flood Attack Simulator in NS-3,,LA-NAS
+IEEE,C,2017,Sanodiya,DoS Attacks A Simulation Study,,LA-NAS
+IEEE,C,2017,Pan et al,Co-simulation for Cyber Security Analysis: Data Attacks against Energy Management System,,LA-NAS
+IEEE,C,2017,Medkova et al,Network Defence Strategy Evaluation: Simulation vs. Live Network,,LA-NAS
+IEEE,C,2017,Huang et al,Vulnerability Analysis of Electrical Cyber Physical Systems using a simulation Platform,,LA-NAS
+IEEE,C,2017,Eastman & Kumar,A Simulation Study to Detect Attacks on Internet of Things,,LA-NAS
+IEEE,C,2017,Bekeneva & Shorov,Simulation of DRDoS-attacks and Protection Systems against them,,LA-NAS
+IEEE,C,2016,Wermann et al,ASTORIA: A Framework for Attack Simulation and Evaluation in Smart Grids,,LA-NAS
+IEEE,C,2016,Szabo,Options of micro-simulation in the modelling of the pension system and the intelligent IT security system,,LA-NAS
+IEEE,C,2016,Hou et al,Digital Substation Cyber Security Analysis with SYN-Flood Attack as a Simulation Case,,LA-NAS
+IEEE,C,2015,Xiang et al,Power Grid Adequacy Evaluation Involving Substation Cybersecurity Issues,,LA-NAS
+IEEE,C,2015,Furfaro et al,Simulation Model for the Analysis of DDoS Amplification Attacks,,LA-NAS
+IEEE,C,2014,Xie et al,Using Simulation Platform to Analyze Radio Modem Security in SCADA,,LA-NAS
+IEEE,C,2014,Hesar et al,Simulating and Analysis of Cyber Attacks on a BPLC Network,,LA-NAS
+IEEE,C,2013,Poisel et al,Game-based Simulation of Distributed Denial of Service (DDoS) Attack and Defense Mechanisms of Critical Infrastructures,,LA-NAS
+IEEE,C,2013,Caire et al,Vulnerability Analysis of Coupled Heterogeneous Critical Infrastructures: a Co-simulation Approach with a Testbed Validation,,LA-NAS
+IEEE,C,2011,Qwasmi et al,Simulation of DDoS Attacks on P2P Networks,,LA-NAS
+IEEE,C,2011,Li et al,An Instruction-Level Software Simulation Approach to Resistance Evaluation of Cryptographic Implementations against Power Analysis Attacks,,LA-NAS
+IEEE,C,2011,Kosowski & Mosorov,NESSI2 SIMULATOR FOR LARGE-SCALE DDOS ATTACK ANALYSIS,,LA-NAS
+IEEE,C,2011,Konate & Abdourahime,Attacks Analysis in mobile ad hoc networks Modeling and Simulation,,LA-NAS
+IEEE,C,2011,Kerin et al,Assessment of Power System Dynamic Security by Relying on Conventional Simulation Domain,,LA-NAS
+IEEE,C,2011,Chinnow et al,A simulation framework for smart meter security evaluation,,LA-NAS
+IEEE,C,2010,Zhang et al,Simulation and analysis of LDoS Attacks,,LA-NAS
+IEEE,C,2010,Song et al,Integrated Evaluation of Probabilistic Security and Probabilistic Adequacy of Bulk Power System based on Monte-Carlo Simulation,,LA-NAS
+IEEE,C,2010,Liu & Guan,Attack simulation and signature extraction of low rate DoS,,LA-NAS
+IEEE,C,2010,Chunlei et al,A Simulation Environment for SCADA Security Analysis and Assessment,,LA-NAS
+IEEE,C,2009,Liu & Lo,The simulation for the SIP DDoS attack,,LA-NAS
+IEEE,C,2008,Wen-jing & QingQuan,RESEARCH AND SIMULATION OF AN EXPERT SYSTEM ON THE WIDE-AREA BACK-UP PROTECTION SYSTEM,,LA-NAS
+IEEE,C,2008,Liu & Lo,The simulation for the VoIP DDoS attack,,LA-NAS
+IEEE,C,2007,Heyde et al,Stochastic Computation of Power system security level,,LA-NAS
+IEEE,C,2006,Singh et al,Power System Adequacy and Security Calculations Using Monte Carlo Simulation incorporating Intelligent System Methodology,,LA-NAS
+IEEE,C,2006,Kim et al,Design of Context-Awareness Simulation Toolkit for Ubiquitous Computing,,LA-NAS
+IEEE,C,2019,Hill et al,Using Bro with a Simulation Model to Detect Cyber-Physical Attacks in a Nuclear Reactor,,LA-NS
+IEEE,C,2019,Hacks et al,Creating Meta Attack Language Instances using ArchiMate: Applied to Electric Power and Energy System Cases,,LA-NS
+IEEE,C,2019,Dhivvya et al,Network Simulation and Vulnerability Assessment Tool for an Enterprise Network,,LA-NS
+IEEE,C,2018,Yi et al,A Logic-based Attack Graph for Analyzing Network Security Risk Against Potential Attack,,LA-NS
+IEEE,C,2018,Wiedenmann et al,Designing and implementing a benchmark collection for attack simulation in field bus systems,,LA-NS
+IEEE,C,2018,Lamichhane et al,A Quantitative Risk Analysis Model and Simulation Of Enterprise Networks,,LA-NS
+IEEE,C,2017,Valgenti et al,Simulating Exploits for the Creation and Refinement of Detection Signatures,,LA-NS
+IEEE,C,2017,Lamp et al,Towards adaptive and proactive security assessment for energy delivery systems,,LA-NS
+IEEE,C,2011,Jajodia et al,Cauldron,,LA-NS
+IEEE,C,2010,Shing & Shing,Information security risk assessment using markov models,,LA-NS
+IEEE,C,2009,Yang et al,A Task-Deployment Model for the Simulation of Computer Network Attack and Defense Exercises,,LA-NS
+IEEE,C,2009,Wu et al,Recognizing Intrusive Intention and Assessing Threat Based on Attack Path Analysis,,LA-NS
+IEEE,C,2009,Ingols et al,Modeling Modern Network Attacks and Countermeasures Using Attack Graphs,,LA-NS
+IEEE,C,2006,Li & Vaughn,Modeling and Simulating System Exploitations through Exploitation Graphs for Security Engineering,,LA-NS
+IEEE,C,2006,Ingols et al,Practical Attack Graph Generation for Network Defense,,LA-NS
+IEEE,C,2005,Ammann et al,A Host–Based Approach to Network Attack Chaining Analysis,,LA-NS
+IEEE,C,2004,Rinaldi,Modeling and Simulating Critical Infrastructures and Their Interdependencies,,LA-NS
+IEEE,C,1999,Neely,Security Architecture Development and Results for a Distributed Modeling and Simulation System,,LA-NS
+IEEE,C,1999,Bieber & Siron,Design and implementation of a distributed interactive simulation security architecture,,LA-NS
+IEEE,J,2018,Rasmussen et al,Effects of centralized and local PV plant control for voltage regulation in LV feeder based on cyber-physical simulations,,TA-NAS
+IEEE,C,2019,Xue et al,Research on Security Testing and Simulation Platform of Smart Grid Substation System,,TA-NAS
+IEEE,C,2019,Syukri & Mohd,Spear Phishing Simulation in Critical Sector: Telecommunication and Defense Sub-sector,,TA-NAS
+IEEE,C,2019,Shahzad & Asgarpoor,Probabilistic Risk Assessment of an Active Distribution Network Using Monte Carlo Simulation Approach,,TA-NAS
+IEEE,C,2019,Li & Zhu,A Bayesian game based defense scheme for CBTC systems under Man-in-the-middle attacks,,TA-NAS
+IEEE,C,2019,Klettke et al,Modelling of Stochastically Dependent Forecast Errors for Load Flow Simulations in the Transmission Grid Using Convolution,,TA-NAS
+IEEE,C,2019,Clark et al,Simulation-based reduction of operational and cybersecurity risks in autonomous vehicles,,TA-NAS
+IEEE,C,2019,Arani et al,Modeling and Simulation of the Aurora Attack on Microgrid Point of Common Coupling,,TA-NAS
+IEEE,C,2018,Vedhapriyavadhana et al,Simulation and performance analysis of Security issue Using Floodlight controller in Software Defined Network,,TA-NAS
+IEEE,C,2018,Sbai & Elboukhari,Simulation of MANET’s single and multiple Blackhole attack with NS-3,,TA-NAS
+IEEE,C,2018,Battati et al,CSSS: Cyber Security Simulation Service for Software Defined Tactical Networks,,TA-NAS
+IEEE,C,2018,Apostolovic et al,DDoSSim - System for visual representation of the selected distributed denial of service attacks,,TA-NAS
+IEEE,C,2017,Zhang et al,OPNET based Simulation Modeling and Analysis of DoS Attack for Digital Substation,,TA-NAS
+IEEE,C,2017,Ramapantulu et al,A CONCEPTURAL FRAMEWORK TO FEDERATE TESTBEDS FOR CYBERSECURITY,,TA-NAS
+IEEE,C,2015,Singh et al,Simulation Study of Application Layer DDoS Attack,,TA-NAS
+IEEE,C,2014,Kaur et al,Modeling and Simulation of DDoS Attack using Omnet++,,TA-NAS
+IEEE,C,2013,Yang et al,Bayesian Network based Software Reliability Prediction by Dynamic Simulation,,TA-NAS
+IEEE,C,2011,Dong et al,Modeling and simulation of the communication network in smart grid,,TA-NAS
+IEEE,C,2010,Yang et al,A Novel Simulation Platform for WLAN Security Protocols,,TA-NAS
+IEEE,C,2010,Cetinkaya et al,A Comprehensive Framework to Simulate Network Attacks and Challenges,,TA-NAS
+IEEE,C,2009,Hong et al,Simulation and Analysis of MAC Security Based on NS2,,TA-NAS
+IEEE,C,2007,Hennessey et al,SECURITY SIMULATION FOR VULNERABILITY ASSESSMENT,,TA-NAS
+IEEE,C,2006,Acharya et al,Simulation Study of Firewalls to Aid improved performance,,TA-NAS
+IEEE,C,2019,Paliath & Shakarian,Reasoning about Sequential Cyberattacks,,TA-NS
+IEEE,C,2018,Repp,Theoretical Aspects of Cyber-atack [sic] Modeling,,TA-NS
+IEEE,C,2018,Hsieh et al,Building a Cybersecurity Research and Experimentation Testbed,,TA-NS
+IEEE,C,2016,Moon et al,Hybrid Attack Path Enumeration System based on Reputation Scores,,TA-NS
+IEEE,C,2011,Hong et al,An Intrusion and Defense Testbed in a Cyber-Power System Environment,,TA-NS
+IEEE,C,2006,Kim et al,Simulation of risk propagation model in information systems,,TA-NS
+IEEE,C,2006,Hofheinz & Unruh,Simulatable Security and Polynomially Bounded Concurrent Composability,,TA-NS
+IEEE,J,2019,Lobo & Santios,Modeling and Simulation of Hydroelectric Projects with Reservoirs,,Lang
+IEEE,C,2007,Kuhl et al,CYBER ATTACK MODELING AND SIMULATION FOR NETWORK SECURITY ANALYSIS,,FA-NAS
+IEEE,C,2018,Sarkar et al,VOTNET: HYBRID SIMULATION OF VIRTUAL OPERATIONAL TECHNOLOGY NETWORK FOR CYBERSECURITY ASSESSMENT,,LA-NAS
+IEEE,C,2017,Kumar,SIMULATING DDOS ATTACKS ON THE US FIBER-OPTICS INTERNET INFRASTRUCTURE,,Pub
+IEEE,C,2013,SchaefferFilho et al,Simulation and Evaluation of Network Resilience with PReSET,,Pub
+IEEE,C,2011,Masi et al,Simulating network cyber attacks using splitting techniques,,LA-NAS
+IEEE,C,2007,Kotenko,Multi-agent Modelling and Simulation of Cyber-Attacks and Cyber-Defense for Homeland Security,,Pub
+IEEE,C,2007,Hu & Jiang,Simulation of Attacks on Network-based Error Detection,,Pub
+IEEE,C,2013,Moskal et al,Simulating attack behaviors in enterprise networks,,Pub
+IEEE,C,2003,Kotenko et al,Formal Framework for Modeling and Simulation of DDoS Attacks Based on Teamwork of Hackers-Agents,,Comp
+IEEE,C,2012,Rybnicek et al,A Generic Approach to Critical Infrastructures Modeling and Simulation,,Comp
+ACM,J,2019,Outkin et al,GPLADD: Quantifying Trust in Government and Commercial Systems A Game-Theoretic Approach,a18-outkin,FA-NAS
+ACM,J,2017,Lei et al,Dynamically enabled defense effectiveness evaluation of a home Internet based on vulnerability analysis and attack layer measuremen,779_2017_Article_1084,FA-NS
+ACM,J,2008,Nicol,Efficient Simulation of Internet Worms,a5-nicol,LA-NAS
+ACM,J,2019,Gong et al,Probabilistic Evaluation of Hardware Security Vulnerabilities,a14-gong,LA-NS
+ACM,J,2018,Codetta-Raiteri & Portinale,Decision Networks for Security Risk Assessment of Critical Infrastructures,a29-codetta-raiteri,LA-NS
+ACM,J,2019,Cheh et al,Modeling Adversarial Physical Movement in a Railway Station: Classification and Metrics,a11-cheh,TA-NS
+ACM,J,2018,"Baskerville et al
+",Integration of Information Systems and Cybersecurity Countermeasures: An Exposure to Risk Perspective,p33-baskerville,TA-NS
+ACM,J,2013,Frank et al,Role Mining with Probabilistic Models,a15-frank,TA-NS
+ACM,J,2012,Feigenbaum et al,Probabilistic Analysis of Onion Routing in a Black-Box Model,a14-feigenbaum,TA-NS
+ACM,J,2011,Puzis et al,A Decision Support System for Placement of Intrusion Detection and Prevention Devices in Large-Scale Networks,a5-puzis,TA-NS
+ACM,J,2009,Idika et al,Maximizing Network Security Given a Limited Budget,p12-idika,TA-NS
+ACM,J,2007,Green et al,ANALYSIS OF ACTIVE INTRUSION PREVENTION DATA FOR PREDICTING HOSTILE ACTIVITY IN COMPUTER NETWORKS,p63-green,TA-NS
+ACM,J,2018,Ceccarelli et al,Threat Analysis in Systems-of-Systems: An Emergence-Oriented Approach,3234513,FA-NAS
+ACM,C,2015,Wagner et al,Agent-based Simulation for Assessing Network Security Risk due to Unauthorized Hardware,2920413.41.00,FA-NAS
+ACM,C,2011,Baiardi et al,A Simulation-Driven Approach for Assessing Risks of Complex Systems,2011558.30.00,FA-NAS
+ACM,C,2007,Grant et al,Simulating Adversarial Interactions between Intruders and System Administrators using OODA-RR,1314032.37.00,FA-NAS
+ACM,C,2019,Rajput et al,Process-Aware Cyberattacks for Thermal Desalination Plants,3377201.45.00,FA-NAS
+ACM,C,2017,Li et al,Cross-level Monte Carlo Framework for System Vulnerability Evaluation against Fault Attack,3112676.00.00,FA-NAS
+ACM,C,2015,Gollmann et al,Cyber-Physical Systems Security – Experimental Analysis of a Vinyl Acetate Monomer Plant,2777734.48.00,FA-NAS
+ACM,C,2012,Yan et al,Integrated Simulation and Emulation Platform for Cyber-Physical System Security Experimentation,2221930.19.00,FA-NAS
+ACM,C,2011,Chapman et al,Taxonomy of Cyber Attacks and Simulation of their Effects,2082700.49.00,FA-NAS
+ACM,C,2009,Garrido,Understanding Distributed Denial of Service with Object Oriented Simulation,1592552.36.00,FA-NAS
+ACM,C,2009,You & Chi,SIMVA: Simulation-based Network Vulnerability Analysis System,1667140.36.00,Comp
+ACM,C,2008,Wu & Liu,"Simulation for Intrusion-Resilient, DDoS-Resistant Authentication System (IDAS)",1423893.47.00,FA-NAS
+ACM,C,2008,Cui et al,Network Security Simulation and Evaluation,1480493.39.00,FA-NAS
+ACM,C,2007,Shay et al ,Password Policy Simulation and Analysis,1336309.45.00,FA-NAS
+ACM,C,2006,Ou et al,A Scalable Approach to Attack Graph Generation,,FA-NAS
+ACM,C,2005,Pendegraft et al,A Simulation Model of IS Security,1186707.54.00,FA-NAS
+ACM,C,2019,Yu et al,ARINC-825TBv2: A Hardware-in-the-loop Simulation Platform for Aerospace Security Research,3395959.49.00,LA-NAS
+ACM,C,2019,Rawat et al,Performance Evaluation of Deception System for Deceiving Cyber Adversaries in Adaptive Virtualized Wireless Networks,3377201.45.00,LA-NAS
+ACM,C,2017,Tundis et al,Systemic Risk Modeling and Evaluation through Simulation and Bayesian Networks,3150603.53.00,LA-NAS
+ACM,C,2017,Mathoosoothenen et al,An Integrated Real-Time Simulated Ethical Hacking Toolkit with Interactive Gamification Capabilities and Cyber Security Educational Platform,3221196.37.00,LA-NAS
+ACM,C,2017,Hill et al,Simulation and Analysis Framework for Cyber-Physical Systems,3115894.27.00,LA-NAS
+ACM,C,2016,Vaughn & Morris,Addressing Critical Industrial Control System Cyber Security Concerns via High Fidelity Simulation,3092802.47.00,LA-NAS
+ACM,C,2016,Naugle et al,SIMULATING POLITICAL AND ATTACK DYNAMICS OF THE 2007 ESTONIAN CYBER ATTACKS,3092802.47.00,LA-NAS
+ACM,C,2015,Priest et al,Agent-Based Simulation in Support of Moving Target Cyber Defense Technology Development and Evaluation,2920425.53.00,LA-NAS
+ACM,C,2014,Azimi et al,A Security Test-Bed for Industrial Control Systems,2637012.50.00,LA-NAS
+ACM,C,2013,Siddiqui et al,Framework for Supervised and Secure Distributed Simulations of Critical Infrastructures,3253189.26.00,LA-NAS
+ACM,C,2013,Hamilton,ARCHITECTURE-BASED NETWORK SIMULATION FOR CYBER SECURITY,2720588.43.00,LA-NAS
+ACM,C,2013,Bryce et al,ON SIMULATING THE RESILIENCE OF MILITARY HUB AND SPOKE NETWORKS,2720588.42.00,LA-NAS
+ACM,C,2012,Kim & Kim,A MODELING METHODOLOGY FOR CYBER-SECURITY SIMULATION,2470263.08.00,LA-NAS
+ACM,C,2010,Wu et al,On Modeling and Simulation of Game Theory-based Defense Mechanisms against DoS and DDoS Attacks,1909848.43.00,LA-NAS
+ACM,C,2010,Ferreira et al,Simulation of Anti-Relay Attack Schemes for RFID ETC System,2370624.51.00,LA-NAS
+ACM,C,2005,Li et al,Simulation and Analysis on the Resiliency and Efficiency of Malnets,PADS.2005.29,LA-NAS
+ACM,C,2002,Bella,Interactive Simulation of Security Policies,517271.42.00,LA-NAS
+ACM,C,2018,Li et al,Attack Intent Analysis Method Based on Attack Path Graph,3427870.40.00,LA-NS
+ACM,C,2018,Aksu et al,Automated Generation of Attack Graphs Using NVD,3229196.59.00,LA-NS
+ACM,C,2015,Ghosh et al,NetSecuritas: An Integrated Attack Graph-based Security Assessment Tool for Enterprise Networks,2729205.34.00,LA-NS
+ACM,C,2015,Damodoran & Couretas,Cyber Modeling & Simulation for Cyber-Range Events,2922832.23.00,LA-NS
+ACM,C,2008,Saha,Extending Logical Attack Graphs for Efficient Vulnerability Analysis,1480033.00.00,LA-NS
+ACM,C,2007,Aime et al,AMBRA - Automated Model-Based Risk Analysis,1336161.32.00,LA-NS
+ACM,C,2004,Guru & Savory,A TEMPLATE-BASED CONCEPTUAL MODELING INFRASTRUCTURE FOR SIMULATION OF PHYSICAL SECURITY SYSTEMS,1181098.52.00,LA-NS
+ACM,C,2001,Elkins et al,SECURITY ISSUES IN HIGH LEVEL ARCHITECTURE BASED DISTRIBUTED SIMULATION,573527.59.00,LA-NS
+ACM,C,1999,Barak et al,The Proactive Security Toolkit and Applications,325037.33.00,LA-NS
+ACM,C,2019,Sbai & Elboukhari,A simulation analysis of MANET’s Link-spoofing and Replay attacks with ns-3,3424906.49.00,TA-NAS
+ACM,C,2019,Nicol,Simulation-based Analysis of Network Rules Matching,3371905.19.00,TA-NAS
+ACM,C,2018,Ceresoli & Kuhl,A SIMULATION FRAMEWORK FOR THE DESIGN AND ANALYSIS OF HEALTHCARE CLINICS,3375863.10.00,TA-NAS
+ACM,C,2015,Bhagat & Pasupuleti,Simulated Raindrop Algorithm to Mitigate DDoS Attacks in Cloud Computing,2865545.04.00,TA-NAS
+ACM,C,2013,Li et al,A Realistic Implementation for Simulating Side-Channel in Mobile Ad Hoc Networks,2541706.21.00,TA-NAS
+ACM,C,2009,Chi et al,FAMES: Fully Agent-based Modeling & Emergent Simulation,1667139.39.00,TA-NAS
+ACM,C,2009,Dursun & Dag,HeteroSim: Heterogeneous Simulation Framework,1667140.46.00,TA-NAS
+ACM,C,2019,Zhao et al,Seeing isn’t Believing: Towards More Robust Adversarial Attack Against Real World Object Detectors,3375439.19.00,TA-NS
+ACM,C,2019,Ibrahim et al,Attack Graph Generation for Microservice Architecture,3352236.41.00,TA-NS
+ACM,C,2019,Capobianco et al,Employing Attack Graphs for Intrusion Detection,3425007.42.00,TA-NS
+ACM,C,2018,Dong & Zhai,A Privacy Risk Assessment Model Based on TAPE Framework,3262309.09.00,TA-NS
+ACM,C,2015,Rozenblit & Sametinger,Models in Healthcare Simulation: Typology and Security Issues,2920886.28.00,TA-NS
+ACM,C,2013,Nutaro et al,Using simulation to engineer cybersecurity requirements,2500976.27.00,TA-NS
+ACM,C,2013,Jin et al,Reachability Analysis for Role-based Administration of Attributes,2559845.51.00,TA-NS
+ACM,C,2013,Hoque et al,Adversarial Testing of Wireless Routing Implementations,2503131.20.00,TA-NS
+ACM,C,2009,Eberle & Holder,Graph-Based Approaches to Insider Threat Detection,1584584.38.00,TA-NS
+ACM,C,2008,Larson & Nilsson,Securing Vehicles against Cyber Attacks,1436692.54.00,TA-NS
+ACM,C,2019,Shetty et al,"SIMULATION FOR CYBER RISK MANAGEMENT – WHERE ARE WE, AND WHERE DO WE WANT TO GO?",3457071.13.00,Pub
+ACM,C,2017,Korman et al,Analyzing the Effectiveness of Attack Countermeasures in a SCADA System,3106309.13.00,Pub
+ACM,C,2019,Chen et al,Attack Intent Analysis Method Based on Attack Path Graph,3427870.40.00,Pub
+ACM,C,2011,Grunewald et al,Agent-based Network Security Simulation (Demonstration),2068305.08.00,Pub
+ACM,C,2009,Clincy,SECURITY AND NETWORK ANALYSIS USING SIMULATION,1646208.28.00,Pub
+ACM,C,2010,LeMay et al,Adversary-Driven State-Based System Security Evaluation,1884817.46.00,Pub
+Elsevier,J,2019,Angelini et al,MAD: A visual analytics solution for Multi-step cyber Attacks Detection,1-s2.0-S1045926X17301106-main,FA-NAS
+Elsevier,J,2018,Alves et al,Virtualization of SCADA testbeds for cybersecurity research: A modular approach,1-s2.0-S0167404818304905-main,FA-NAS
+Elsevier,J,2017,Xiang & Wang,A game-theoretic study of load redistribution attack and defense in power systems,1-s2.0-S0378779617302092-main,FA-NAS
+Elsevier,J,2017,Ficco et al,Simulation platform for cyber-security and vulnerability analysis of critical infrastructures,1-s2.0-S1877750317303605-main,FA-NAS
+Elsevier,J,2016,Salehi et al,Modeling and performance evaluation of security attacks on opportunistic routing protocols for multihop wireless networks,1-s2.0-S1570870516301743-main,FA-NAS
+Elsevier,J,2015,Pastrana et al,DEFIDNET: A framework for optimal allocation of cyberdefenses in Intrusion Detection Networks,1-s2.0-S1389128615000237-main,FA-NAS
+Elsevier,J,2018,Polatidis et al,Cyber-attack path discovery in a dynamic supply chain maritime risk management system,1-s2.0-S0920548917302301-main,FA-NAS
+Elsevier,J,2005,Adhav et al,A modeling and simulation methodology for analyzing ATM network vulnerabilities,1-s2.0-S0140366405000642-main,FA-NAS
+Elsevier,J,2018,Cui et al,"Development of a simulation platform for safety impact analysis considering vehicle dynamics, sensor errors, and communication latencies: Assessing cooperative adaptive cruise control under cyber attack",1-s2.0-S0968090X18305990-main,LA-NAS
+Elsevier,J,2007,Karyotis & Papavassiliou,Risk-based attack strategies for mobile ad hoc networks under probabilistic attack modeling framework,1-s2.0-S1389128607000424-main,LA-NAS
+Elsevier,J,2019,Durkota et al,Hardening networks against strategic attackers using attack graph games,1-s2.0-S0167404819300689-main,LA-NS
+Elsevier,J,2019,Zimba et al,Bayesian network based weighted APT attack paths modeling in cloud computing,1-s2.0-S0167739X18308768-main,LA-NS
+Elsevier,J,2019,Caleiro et al,Generalized probabilistic satisfiability and applications to modelling attackers with side-channel capabilities,1-s2.0-S0304397519301276-main,LA-NS
+Elsevier,J,2019,Park & Lee,Probabilistic safety assessment-based importance analysis of cyber-attacks on nuclear power plants,1-s2.0-S1738573318302833-main,LA-NS
+Elsevier,J,2019,Yu et al,Quantitative security analysis of a dynamic network system under lateral movement-based attacks,1-s2.0-S0951832018307063-main,LA-NS
+Elsevier,J,2019,Lalropuia & Gupta,Modeling cyber-physical attacks based on stochastic game and Markov processes,1-s2.0-S0951832017314436-main,LA-NS
+Elsevier,J,2019,"Misuri et al
+",A Bayesian network methodology for optimal security management of critical infrastructures,1-s2.0-S0951832017311535-main,LA-NS
+Elsevier,J,2018,Lee et al,Game theory-based Security Vulnerability Quantification for Social Internet of Things,1-s2.0-S0167739X17308440-main,LA-NS
+Elsevier,J,2018,Argenti et al,Vulnerability assessment of chemical facilities to intentional attacks based on Bayesian Network,1-s2.0-S0951832016305208-main,LA-NS
+Elsevier,J,2018,Arghavani et al,Attacker-Manager Game Tree (AMGT): A new framework for visualizing and analysing the interactions between attacker and network security manager,1-s2.0-S1389128618300148-main,LA-NS
+Elsevier,J,2018,Lounis,Stochastic-based Semantics Of Attack-Defense Trees For Security Assessment,1-s2.0-S1571066118300422-main,LA-NS
+Elsevier,J,2018,Subba et al,A game theory based multi layered intrusion detection framework for VANET,1-s2.0-S0167739X17314486-main,LA-NS
+Elsevier,J,2018,Garg et al,Empirical analysis of attack graphs for mitigating critical paths and vulnerabilities,1-s2.0-S0167404818303493-main,LA-NS
+Elsevier,J,2018,Zhang et al,Decision support for the optimal allocation of security controls,1-s2.0-S0167923618301581-main,LA-NS
+Elsevier,J,2016,Kordy et al,Probabilistic reasoning with graphical security models,1-s2.0-S0020025516000128-main,LA-NS
+Elsevier,J,2016,Le et al,A probabilistic security assessment approach to power systems with integrated wind resources,1-s2.0-S0960148115300598-main,LA-NS
+Elsevier,J,2016,GhasemiGol et al,A comprehensive approach for network attack forecasting,1-s2.0-S0167404815001819-main,LA-NS
+Elsevier,J,2015,Shin et al,Development of a cyber security risk model using Bayesian networks,1-s2.0-S0951832014002464-main,LA-NS
+Elsevier,J,2014,Feng et al,A security risk analysis model for information systems: Causal relationships of risk factors and vulnerability propagation analysis,1-s2.0-S0020025513001539-main,LA-NS
+Elsevier,J,2013,Almasizadeh & Azgomi,A stochastic model of attack process for the evaluation of security metrics,1-s2.0-S1389128613000856-main,LA-NS
+Elsevier,J,2013,Spyridopoulos et al,A game theoretic defence framework against DoS DDoS cyber attacks,1-s2.0-S016740481300059X-main,LA-NS
+Elsevier,J,2013,Wang et al,Exploring attack graph for cost-benefit security hardening: A probabilistic approach,1-s2.0-S0167404812001496-main,LA-NS
+Elsevier,J,2012,Yang et al,Modeling and quantitatively predicting software security based on stochastic Petri nets,1-s2.0-S1571066109004307-main,LA-NS
+Elsevier,J,2010,Sommestad et al,A probabilistic relational model for security risk analysis,1-s2.0-S0167404810000209-main,LA-NS
+Elsevier,J,2009,Basagiannis et al,Probabilistic model checking for the quantification of DoS security threats,1-s2.0-S0167404809000042-main,LA-NS
+Elsevier,J,2009,Montalto & Caleiro,Modeling and Reasoning about an Attacker with Cryptanalytical Capabilities,1-s2.0-S1571066109004307-main,LA-NS
+Elsevier,J,2008,Kattenbelt et al,Game-Based Probabilistic Predicate Abstraction in PRISM,1-s2.0-S1571066108004532-main,LA-NS
+Elsevier,J,2004,Feng et al,Predicting the intrusion intentions by observing system call sequences,1-s2.0-S0167404804000732-main,LA-NS
+Elsevier,J,2019,Wiczorek & Zirk,"Using warning systems with adaptable thresholds: Choice of security level, compliance and performance in a simulated computer security task",1-s2.0-S1071581918306864-main,TA-NAS
+Elsevier,J,2019,Bartos et al,Network entity characterization and attack prediction,1-s2.0-S0167739X18307799-main,TA-NAS
+Elsevier,J,2019,Kammuller,Attack trees in Isabelle extended with probabilities for quantum cryptography,1-s2.0-S016740481930135X-main,TA-NAS
+Elsevier,J,2019,Khouzani et al,Scalable min-max multi-objective cyber-security optimisation over probabilistic attack graphs,1-s2.0-S0377221719303728-main,TA-NAS
+Elsevier,J,2019,Lv,The security of the Internet of drones,1-s2.0-S0140366419310242-main,TA-NAS
+Elsevier,J,2016,Nandi et al,Interdicting attack graphs to protect organizations from cyber attacks: A bi-level defender–attacker model,1-s2.0-S0305054816301113-main,TA-NAS
+Elsevier,J,2016,Gusmao et al,Information security risk analysis model using fuzzy decision theory,1-s2.0-S0268401215000900-main,TA-NAS
+Elsevier,J,2015,Muthumanickam & Ilavarasan,Optimization of rootkit revealing system resources – A game theoretic approach,1-s2.0-S1319157815000610-main,TA-NAS
+Elsevier,J,2011,Möller et al,Modeling the behavior of users who are confronted with security mechanisms,1-s2.0-S0167404811000423-main,TA-NAS
+Elsevier,J,2018,Papamartzivanos et al,Dendron: Genetic trees driven rule induction for network intrusion detection systems,1-s2.0-S0167739X16305465-main,TA-NS
+Elsevier,J,2018,Semerci et al,An intelligent cyber security system against DDoS attacks in SIP networks,1-s2.0-S1389128618300987-main,TA-NS
+Elsevier,J,2018,Furfaro et al,A Cloud-based platform for the emulation of complex cybersecurity scenarios,1-s2.0-S0167739X1630704X-main,TA-NS
+Elsevier,J,2018,Kudo et al,Stochastic modeling of self-evolving botnets with vulnerability discovery,1-s2.0-S0140366417311994-main,TA-NS
+Elsevier,J,2018,Abdo et al,A safety/security risk analysis approach of Industrial Control Systems: A cyber bowtie – combining new version of attack tree with bowtie analysis,1-s2.0-S0167404817301931-main,TA-NS
+Elsevier,J,2018,Lallie et al,Evaluating practitioner cyber-security attack graph configuration preferences,1-s2.0-S0167404818306163-main,TA-NS
+Elsevier,J,2017,Kim et al,Systematic development of scenarios caused by cyber-attack-induced human errors in nuclear power plants,1-s2.0-S0951832016304434-main,TA-NS
+Elsevier,J,2017,Askeland et al,Moving beyond probabilities – Strength of knowledge characterisations applied to security,1-s2.0-S0951832016307323-main,TA-NS
+Elsevier,J,2017,Panaousis et al,Game theoretic path selection to support security in device-to-device communications,1-s2.0-S1570870516303109-main,TA-NS
+Elsevier,J,2017,Bopche & Mehre,Graph similarity metrics for assessing temporal changes in attack surface of dynamic networks,1-s2.0-S0167404816301171-main,TA-NS
+Elsevier,J,2016,Ntalampiras,Automatic identification of integrity attacks in cyber-physical systems,1-s2.0-S0957417416301646-main,TA-NS
+Elsevier,J,2016,Nauman et al,A three-way decision making approach to malware analysis using probabilistic rough sets,1-s2.0-S0020025516308969-main,TA-NS
+Elsevier,J,2016,GhasmiGol et al,A foresight model for intrusion response management,1-s2.0-S0167404816300700-main,TA-NS
+Elsevier,J,2014,Duan & Zhang,Security risk assessment using fast probabilistic power flow considering static power-frequency characteristics of power systems,1-s2.0-S0142061514000933-main,TA-NS
+Elsevier,J,2014,Li & Huang,A vulnerability model for power system dynamic security assessment,1-s2.0-S0142061514001288-main,TA-NS
+Elsevier,J,2010,Wang et al,Performance analysis of email systems under three types of attacks,1-s2.0-S0166531610000040-main,TA-NS
+Elsevier,J,2009,Feng et al,Predicting intrusion goal using dynamic Bayesian network with transfer probability estimation,1-s2.0-S1084804508000659-main,TA-NS
+Elsevier,J,2008,Otrok et al,A game-theoretic intrusion detection model for mobile ad hoc networks,1-s2.0-S0140366407004318-main,TA-NS
+Elsevier,J,2008,Otrok et al,Game theoretic models for detecting network intrusions,1-s2.0-S0140366407005579-main,TA-NS
+Elsevier,J,2008,Zhang et al,Building network attack graph for alert causal correlation,1-s2.0-S0167404808000308-main,TA-NS
+Elsevier,J,2007,Kaiser et al,Stateevent fault trees—A safety analysis model for software-controlled systems,1-s2.0-S0951832006002092-main,TA-NS
+Elsevier,J,2007,Aven,A unified framework for risk and vulnerability analysis covering both safety and security,1-s2.0-S095183200600086X-main,TA-NS
+Elsevier,J,2006,Lee & Choi,A secure alternate path routing in sensor networks,1-s2.0-S0140366406003124-main,TA-NS
+Elsevier,J,2006,Ryan & Ryan,Expected benefits of information security investments,1-s2.0-S0167404806001192-main,TA-NS
+Elsevier,J,2005,Kim & Singh,Power system probabilistic security assessment using Bayes classifier,1-s2.0-S0378779604002305-main,TA-NS
+Elsevier,J,2005,Gowadia et al,PAID: A Probabilistic Agent-Based Intrusion Detection system,1-s2.0-S0167404805001033-main,TA-NS
+Elsevier,J,1999,Boyen & Wehenkel,Automatic induction of fuzzy decision trees and its application to power system security assessment,1-s2.0-S0165011498001985-main,TA-NS
+Elsevier,J,2019,Zhang & Zhuang,Modeling a multi-target attacker-defender game with multiple attack types,1-s2.0-S0951832018306100-main,TA-NR
+Elsevier,J,2019,Jia et al,Security Strategy for Virtual Machine Allocation in Cloud Computing,1-s2.0-S1877050919302224-main,TA-NR
+Elsevier,J,2019,Farsi et al,A novel online state-based anomaly detection system for process control networks,1-s2.0-S1874548219301209-main,TA-NR
+Elsevier,J,2018,Bracho et al,"A simulation-based platform for assessing the impact of cyber-threats on smart manufacturing systems
+",1-s2.0-S2351978918308242-main,TA-NAS
+Elsevier,J,2018,Gupta & Singh,A probabilistic Approach for Guilty Agent Detection using Bigraph after Distribution of Sample Data,1-s2.0-S1877050917328533-main,TA-NR
+Elsevier,J,2018,Ahlawat & Dave,An attack model based highly secure management scheme for wireless sensor networks,1-s2.0-S1877050917327928-main,TA-NR
+Elsevier,J,2018,Liu et al,Modeling of Cyber-attacks and defenses in Local metering system,1-s2.0-S1876610218300778-main,TA-NS
+Elsevier,J,2014,Stefanov & Liu,Cyber-Physical System Security and Impact Analysis,1-s2.0-S1474667016434026-main,FA-NAS
+Elsevier,J,2013,Bobbio et al,A methodology for qualitativequantitative analysis of weighted attack trees,1-s2.0-S1474667015340003-main,TA-NR
+Elsevier,J,2012,Tariq et al,Defense and Monitoring Model for Distributed Denial of Service Attacks,1-s2.0-S1877050912005042-main,TA-NR
+Elsevier,J,2020,Wang et al,CLOSURE: A cloud scientific workflow scheduling algorithm based on attack–defense game model,1-s2.0-S0167739X19313603-main,Pub
+Elsevier,J,2020,El Hachem et al,"Modeling, Analyzing and Predicting Security Cascading Attacks in Smart Buildings Systems-of-Systems",1-s2.0-S0164121219302584-main,Pub
+Elsevier,J,2020,Schmitz & Pape,LiSRA: Lightweight Security Risk Assessment for Decision Support in Information Security,1-s2.0-S0167404819301993-main,Pub
+Elsevier,J,2020,Kosmanos et al,A novel Intrusion Detection System against spoofing attacks in connected Electric Vehicles,1-s2.0-S259000561930013X-main,Pub
+Elsevier,J,2011,Fovino et al,Cyber security assessment of a power plant,1-s2.0-S0378779610002452-main,Pub
+Elsevier,J,2007,Rosenfeld et al,Archetypal behavior in computer security,,FA-NS
+Elsevier,J,2018,Wang et al,A Monte Carlo-based exploration framework for identifying components vulnerable to cyber threats in nuclear power plants,,FA-NAS
+Elsevier,J,2011,Wu & Wang,An innovative simulation environment for cross-domain policy enforcement,,FA-NAS
+Elsevier,J,2005,Seo,Network security agent DEVS simulation modeling,1-s2.0-S1569190X05000912-main,FA-NAS
+Elsevier,J,2011,Martinez-Moyano et al,Modeling behavioral considerations related to information security,,LA-NS
+Elsevier,C,2011,Mu et al,Research on Motor Imagery Based on Mobile Platform,,LA-NS
+Elsevier,J,2009,Lima et al,Formal Verification and Validation of UML 2.0 Sequence Diagrams using Source and Destination of Messages,,TA-NS
+Springer,J,2019,Luh et al,PenQuest: a gamified attacker/defender meta model for cyber security assessment and education,Luh2019_Article_PenQuestAGamifiedAttackerDefen,FA-NAS
+Springer,J,2019,Wakaiki et al,Supervisory Control of Discrete-Event Systems Under Attacks,Wakaiki2019_Article_SupervisoryControlOfDiscrete-E,FA-NS
+Springer,J,2017,Ho & Warkentin,Leader’s dilemma game: An experimental design for cyber insider threat research,Ho-Warkentin2017_Article_LeaderSDilemmaGameAnExperiment,FA-NS
+Springer,J,2013,van Dijk et al,F L I P I T : The Game of “Stealthy Takeover”,Dijk2013_Article_FlipItTheGameOfStealthyTakeove,FA-NS
+Springer,J,2013,Konovalov et al,SimulationBased Study of Botnets and Defense Mechanisms against Them,Konovalov2013_Article_Simulation-basedStudyOfBotnets,FA-NAS
+Springer,J,2016,Casey et al,Compliance signaling games: toward modeling the deterrence of insider threats,Casey2016_Article_ComplianceSignalingGamesToward,FA-NAS
+Springer,J,2014,White et al,Social network attack simulation with honeytokens,White2014_Article_SocialNetworkAttackSimulationW,FA-NAS
+Springer,J,2019,Dashevskyi et al,"T EST RE X : a framework for repeatable exploits
+",Dashevskyi2019_Article_TestRExAFrameworkForRepeatable,LA-NS
+Springer,J,2019,Kandoussi et al,Toward an integrated dynamic defense system for strategic detecting attacks in cloud networks using stochastic game,Kandoussi2019_Article_TowardAnIntegratedDynamicDefen,LA-NS
+Springer,J,2019,Okutan & Yang,ASSERT: attack synthesis and separation with entropy redistribution towards predictive cyber defense,Okutan-Yang2019_Article_ASSERTAttackSynthesisAndSepara,LA-NS
+Springer,J,2019,Pilz et al,Security attacks on smart grid scheduling and their defences: a game-theoretic approach,Pilz2019_Article_SecurityAttacksOnSmartGridSche,LA-NS
+Springer,J,2018,Gao & Feng,Stochastic stability analysis of networked control systems with random cryptographic protection under random zero-measurement attacks,Gao-Feng2018_Article_StochasticStabilityAnalysisOfN,LA-NS
+Springer,J,2018,Lei et al,Dynamically enabled defense effectiveness evaluation of a home Internet based on vulnerability analysis and attack layer measurement,Lei2018_Article_DynamicallyEnabledDefenseEffec,LA-NS
+Springer,J,2018,Magazev & Tsyrulnik,Investigation of a Markov Model for Computer System Security Threats,Magazev-Tsyrulnik2018_Article_InvestigationOfAMarkovModelFor,LA-NS
+Springer,J,2018,Orojloo & Azgomi,A Stochastic Game Model for Evaluating the Impacts of Security Attacks Against Cyber-Physical Systems,Orojloo-Azgomi2018_Article_AStochasticGameModelForEvaluat,LA-NS
+Springer,J,2018,Srivastava et al,Graph-theoretic algorithms for cyber-physical vulnerability analysis of power grid with incomplete information,SRIVASTAVA2018_Article_Graph-theoreticAlgorithmsForCy,LA-NS
+Springer,J,2017,Antunes & Vieira,"Designing vulnerability testing tools for web services: approach, components, and tools",Antunes-Vieira2017_Article_DesigningVulnerabilityTestingT,LA-NS
+Springer,J,2016,Kolokoltsov & Bensoussan,Mean-Field-Game Model for Botnet Defense in Cyber-Security,Kolokoltsov-Bensoussan2016_Article_Mean-Field-GameModelForBotnetD,LA-NS
+Springer,J,2016,Wang et al,Game strategies for distributed denial of service defense in the Cloud of Things,Wang2016_Article_GameStrategiesForDistributedDe,LA-NS
+Springer,J,2014,Du et al,An attack-and-defence game for security assessment in vehicular ad hoc networks,Du2014_Article_AnAttack-and-defenceGameForSec,LA-NS
+Springer,J,2014,Akrout et al,An automated black box approach for web vulnerability identification and attack scenario generation,Akrout2014_Article_AnAutomatedBlackBoxApproachFor,LA-NS
+Springer,J,2014,Johnson et al,An architecture modeling framework for probabilistic prediction,Johnson2014_Article_AnArchitectureModelingFramewor,LA-NS
+Springer,J,2014,Wu & Zhao,A Novel Risk Assessment Model for Privacy Security in Internet of Things,Wu-Zhao2014_Article_ANovelRiskAssessmentModelForPr,LA-NS
+Springer,J,2012,Wang et al,Stochastic game net and applications in security analysis for enterprise network,Wang2012_Article_StochasticGameNetAndApplicatio,LA-NS
+Springer,J,2011,Cai et al,Honeynet games: a game theoretic approach to defending network monitors,Cai2011_Article_HoneynetGamesAGameTheoreticApp,LA-NS
+Springer,J,2008,Backes et al,Conditional reactive simulatability,Backes2008_Article_ConditionalReactiveSimulatabil,LA-NS
+Springer,J,2005,"Lye & Wing
+",Game strategies in network security,Lye-Wing2005_Article_GameStrategiesInNetworkSecurit,LA-NS
+Springer,J,2019,Mahini & Mousavirad,WiFi Intrusion Detection and Prevention Systems Analyzing: A Game Theoretical Perspective,Mahini-Mousavirad2019_Article_WiFiIntrusionDetectionAndPreve,TA-NAS
+Springer,J,2019,Park et al,"A Hybrid Vulnerability Analysis Tool Using a Risk Evaluation Technique
+",Park2019_Article_AHybridVulnerabilityAnalysisTo,TA-NAS
+Springer,J,2019,Schmitt et al,Simulation-supported aviation cyber-security risk analysis: a case study,Schmitt2019_Article_Simulation-supportedAviationCy,TA-NAS
+Springer,J,2018,Laszka et al,A game-theoretic approach for integrity assurance in resource-bounded system,Laszka2018_Article_AGame-theoreticApproachForInte,TA-NAS
+Springer,J,2018,Singh et al,Modeling and Analysis of Worm Propagation in Wireless Sensor Networks,Singh2018_Article_ModelingAndAnalysisOfWormPropa.pdf,TA-NAS
+Springer,J,2017,Cai et al,Game theoretic analysis for the mechanism of moving target defense,Cai2017_Article_GameTheoreticAnalysisForTheMec,TA-NAS
+Springer,J,2017,Nezarat & Shams,A game theoretic-based distributed detection method for VM-to-hypervisor attacks in cloud environment,Nezarat-Shams2017_Article_AGameTheoretic-basedDistribute,TA-NAS
+Springer,J,2017,Qian et al,A game-theoretic analysis of information security investment for multiple firms in a network,Qian2017_Article_AGame-theoreticAnalysisOfInfor,TA-NAS
+Springer,J,2016,Shi et al,Game Theoretic Simulation on the Mimicry Honeypot,Shi2016_Article_GameTheoreticSimulationOnTheMi,TA-NAS
+Springer,J,2016,Tesfahun & Bhaskari,A SCADA Testbed for Investigating Cyber Security Vulnerabilities in Critical Infrastructures,Tesfahun-Bhaskari2016_Article_ASCADATestbedForInvestigatingC,TA-NAS
+Springer,J,2013,Ding et al,A Security Differential Game Model for Sensor Networks in Context of the Internet of Things,Ding2013_Article_ASecurityDifferentialGameModel,TA-NAS
+Springer,J,2011,Anderson et al,Graph-based malware detection using dynamic analysis,Anderson2011_Article_Graph-basedMalwareDetectionUsi,TA-NAS
+Springer,J,2009,Li et al,Threat Modeling-Oriented Attack Path Evaluating Algorithm,Li2009_Article_ThreatModeling-orientedAttackP,TA-NAS
+Springer,J,2009,Shay & Bertino,A comprehensive simulation tool for the analysis of password policies,Shay-Bertino2009_Article_AComprehensiveSimulationToolFo,TA-NAS
+Springer,J,2008,Kusters et al,On the Relationships between Notions of Simulation-Based Security,Küsters2008_Article_OnTheRelationshipsBetweenNotio,TA-NAS
+Springer,J,2007,Hu & Wei,Instant Messaging Worms Propagation Simulation and Countermeasures,Hu-Wei2007_Article_InstantMessagingWormsPropagati,TA-NAS
+Springer,J,2019,Yang et al,A novel intelligent assessment method for SCADA information security risk based on causality analysis,Yang2019_Article_ANovelIntelligentAssessmentMet,TA-NS
+Springer,J,2019,Schauer et al,"MITIGATE: a dynamic supply chain cyber risk
+assessment methodology",Schauer2019_Article_MITIGATEADynamicSupplyChainCyb,TA-NS
+Springer,J,2019,Adepu et al,Attacks on smart grid: power supply interruption and malicious power generation,Adepu2019_Article_AttacksOnSmartGridPowerSupplyI,TA-NS
+Springer,J,2018,Annor-Asante & Pranggono,Development of Smart Grid Testbed with Low-Cost Hardware and Software for Cybersecurity Research and Education,Annor-Asante-Pranggono2018_Article_DevelopmentOfSmartGridTestbedW,TA-NS
+Springer,J,2017,Nagurney et al,A supply chain network game theory model of cybersecurity investments with nonlinear budget constraints,Nagurney2017_Article_ASupplyChainNetworkGameTheoryM,TA-NS
+Springer,J,2017,Shi et al,A Defense Model against Mobile Phone Malicious Codes Based on Social Computing,Shi2017_Article_ADefenseModelAgainstMobilePhon,TA-NS
+Springer,J,2017,Zhu et al,Vulnerability severity prediction and risk metric modeling for software,Zhu2017_Article_VulnerabilitySeverityPredictio,TA-NS
+Springer,J,2016,Gruber & Ben-Gal,Using targeted Bayesian network learning for suspect identification in communication networks,Gruber-Ben-Gal2018_Article_UsingTargetedBayesianNetworkLe,TA-NS
+Springer,J,2016,Anisimov et al,A Risk-Oriented Approach to the Control Arrangement of Security Protection Subsystems of Information Systems,Anisimov2016_Article_ARisk-orientedApproachToTheCon,TA-NS
+Springer,J,2016,Cai et al,SwordDTA: A Dynamic Taint Analysis Tool for Software Vulnerability Detection,Cai2016_Article_SwordDTAADynamicTaintAnalysisT,TA-NS
+Springer,J,2016,Geng & Luo,A Novel Vulnerability Prediction Model to Predict Vulnerability Loss Based on Probit Regression,Geng-Luo2016_Article_ANovelVulnerabilityPredictionM,TA-NS
+Springer,J,2015,Yang et al,A study on stable web server system using virtualization technology against attacks,Yang2015_Article_AStudyOnStableWebServerSystemU,TA-NS
+Springer,J,2015,Spreitzenbarth et al,Mobile-Sandbox: combining static and dynamic analysis with machine-learning techniques,Spreitzenbarth2015_Article_Mobile-SandboxCombiningStaticA,TA-NS
+Springer,J,2015,Yang,A study on attack information collection using virtualization technology,Yang2015_Article_AStudyOnAttackInformationColle,TA-NS
+Springer,J,2012,Aissa et al,Defining and computing a value based cyber-security measure,Aissa2012_Article_DefiningAndComputingAValueBase,TA-NS
+Springer,J,2011,Yang,Security Analysis of Application Layer Protocols on Wireless Local Area Networks,Yang2011_Article_SecurityAnalysisOfApplicationL,TA-NS
+Springer,J,2008,Yu & Wang,Dynamic security risk assessment and optimization of power transmission system,Yu-Wang2008_Article_DynamicSecurityRiskAssessmentA,TA-NS
+Springer,J,2007,Jia & Yang,An Intrusion Detection Method Based on Hierarchical Hidden Markov Models,Jia-Yang2007_Article_AnIntrusionDetectionMethodBase,TA-NS
+Springer,J,2007,Kearney & Brugger,A risk-driven security analysis method and modelling language,Kearney-Brügger2007_Article_ARisk-drivenSecurityAnalysisMe,TA-NS
+Springer,J,2006,Zhang et al,Assessing the Risk Situation of Network Security for Active Defense,Xiang2006_Article_AssessingTheRiskSituationOfNet,TA-NS
+Springer,J,2006,Liu et al,Evaluation Model of System Survivability,Yuling2006_Article_EvaluationModelOfSystemSurviva,TA-NS
+Springer,J,2004,"Burgess et al
+",A graph-theoretical model of computer security,Burgess2004_Article_AGraph-theoreticalModelOfCompu,TA-NS
+Springer,J,2018,Liu et al,A proactive defense mechanism for mobile communication user data,Liu2018_Article_AProactiveDefenseMechanismForM,TA-NR
+Springer,J,2018,Zhao et al,Simulation-based security of function-hiding inner product encryption,Zhao2018_Article_Simulation-basedSecurityOfFunc,TA-NR
+Springer,J,2016,Kim et al,A risk probability-map generation model on multimedia services environment,Kim2016_Article_ARiskProbability-mapGeneration,TA-NR
+Springer,J,2013,de Silva et al,On formal reachability analysis in networks with dynamic behavior,Silva2013_Article_OnFormalReachabilityAnalysisIn,TA-NR
+Springer,C,2017,Huang et al,Modeling and Simulation of Intelligent Substation Network Under Intrusion Attack,,FA-NAS
+Springer,C,2014,Rybnicek et al,Simulation-Based Cyber-Attack Assessment of Critical Infrastructures,,FA-NAS
+Springer,C,2012,Nochenson & Heimann,Simulation and Game-Theoretic Analysis of an Attacker-Defender Game,,FA-NAS
+Springer,C,2006,Kotenko & Stepashkin,Attack Graph Based Evaluation of Network Security,,FA-NAS
+Springer,C,2019,Kharchenko et al,Monte-Carlo Simulation and Availability Assessment of the Smart Building Automation Systems Considering Component Failures and Attacks on Vulnerabilities,,FA-NAS
+Springer,C,2015,Ahuja et al,EAST: Exploitation of Attacks and System Threats in Network,,FA-NAS
+Springer,C,2014,Sonchack & Aviv,LESS Is More: Host-Agent Based Simulator for Large-Scale Evaluation of Security Systems,,FA-NAS
+Springer,C,2011,Loinig et al,Idea: Simulation Based Security Requirement Verification for Transaction Level Models,,FA-NAS
+Springer,C,2011,Borg et al,Simulating Malicious Users in a Software Reputation System,,FA-NAS
+Springer,C,2010,Kotenko et al,Simulation of Botnets: Agent-Based Approach,,FA-NAS
+Springer,C,2009,Nilsson et al,A First Simulation of Attacks in the Automotive Network Communications Protocol FlexRay,,FA-NAS
+Springer,C,2008,Moradian & Håkansson,Approach to Solving Security Problems Using Meta-Agents in Multi Agent System,,FA-NAS
+Springer,C,2005,Park et al,Simulating Cyber-intrusion Using Ordered UML Model-Based Scenarios,,FA-NAS
+Springer,C,2005,Yun et al,"A Scalable, Ordered Scenario-Based Network Security Simulator",,FA-NAS
+Springer,C,2004,Kim et al,Simulation-Based Security Testing for Continuity of Essential Service,,FA-NAS
+Springer,C,2002,Koh et al,Knowledge-Based Modeling and Simulation of Network Access Control Mechanisms Representing Security Policies,,FA-NAS
+Springer,C,2002,Kim et al,Vulnerability Assessment Simulation for Information Infrastructure Protection,,FA-NAS
+Springer,C,1999,Romano et al,SECURE: A Simulation Tool for PKI Design,,FA-NAS
+Springer,C,2014,Cybenko et al,Adversarial and Uncertain Reasoning for Adaptive Cyber Defense: Building the Scientific Foundation,,FA-NS
+Springer,C,2010,Ouedraogo et al,Information Systems Security Criticality and Assurance Evaluation,,FA-NS
+Springer,C,2008,Williams et al,GARNET: A Graphical Attack Graph and Reachability Network Evaluation Tool,,FA-NS
+Springer,J,2018,Stubs & Koster,OpenDISCO – Open simulation framework for distributed smart grid control,,LA-NAS
+Springer,C,2019,Yerdon et al,A Simulation-Based Approach to Development of a New Insider Threat Detection Technique: Active Indicators,,LA-NAS
+Springer,C,2019,Li & Luo,CoLoRSim: A Highly Scalable ICN Simulation Platform,,LA-NAS
+Springer,C,2016,Prasad et al,Generation and Risk Analysis of Network Attack Graph,,LA-NAS
+Springer,C,2015,Bekeneva et al,Investigation of DDoS Attacks by Hybrid Simulation,,LA-NAS
+Springer,C,2014,Tong et al,A Smart Home Network Simulation Testbed for Cybersecurity Experimentation,,LA-NAS
+Springer,C,2010,Jing & Feng,Simulation Modeling of Network Intrusion Detection Based on Artificial Immune System,,LA-NAS
+Springer,C,2008,Sarriegi et al,Modeling and Simulating Information Security Management,,LA-NAS
+Springer,C,2007,Marneffe et al,Simulation-Based Analysis of E2E Voting Systems,,LA-NAS
+Springer,C,2006,Kotenko & Ulanov,Simulation of Internet DDoS Attacks and Defense,,LA-NAS
+Springer,C,2006,Ekelhart et al,Security Ontology: Simulating Threats to Corporate Assets,,LA-NAS
+Springer,C,2005,Kim,Vulnerability Modeling and Simulation for DNS Intrusion Tolerance System Construction,,LA-NAS
+Springer,C,2001,Seo & Cho,Simulation of Network Security with Collaboration among IDS Models,,LA-NAS
+Springer,C,2018,AdarosBoye et al,Cyber-Risks in the Industrial Internet of Things (IIoT): Towards a Method for Continuous Assessment,,LA-NS
+Springer,C,2019,Bezawada et al,"AGBuilder: An AI Tool for Automated Attack Graph Building, Analysis, and Refinement",,LA-NS
+Springer,C,2016,Luan et al,Automated Vulnerability Modeling and Verification for Penetration Testing Using Petri Nets,,LA-NS
+Springer,C,2016,Caselli & Kargl,A Security Assessment Methodology for Critical Infrastructures,,LA-NS
+Springer,C,2010,Adameit et al,Modelling Distributed Network Security in a Petri Net- and Agent-Based Approach,,LA-NS
+Springer,C,2006,Rieke,Modelling and Analysing Network Security Policies in a Given Vulnerability Setting,,LA-NS
+Springer,C,2006,Ekelhart et al,Ontology-Based Business Knowledge for Simulating Threats to Corporate Assets,,LA-NS
+Springer,J,2019,Maryasin et al,Computer Simulation of a Smart Building,,TA-NAS
+Springer,J,2019,Laborde et al,A situation-driven framework for dynamic security management,,TA-NAS
+Springer,J,2011,Zhang,A Mobile Agent-Based Tool Supporting Web Services Testing,,TA-NAS
+Springer,J,2019,Riesco & Villagra,Leveraging cyber threat intelligence for a dynamic risk framework,,TA-NS
+Springer,J,2018,RomanMunoz & Villalba,An algorithm to find relationships between web vulnerabilities,,TA-NS
+Springer,J,2017,Zegzhda et al,Systematization and Security Assessment of Cyber-Physical Systems,,TA-NS
+Springer,J,2016,Kim et al,Software Vulnerability Detection Methodology Combined with Static and Dynamic Analysis,,TA-NS
+Springer,J,2015,Chechulin & Kotenko,Attack TreeBased Approach for RealTime Security Event Processing,,TA-NS
+Springer,J,2013,Morais et al,Generating attack scenarios for the system security validation,,TA-NS
+Springer,J,2013,Liu & Yu,Probabilistic steady-state and dynamic security assessment of power transmission system,,TA-NS
+Springer,C,2018,Kim & Kim,A Simulated Infiltration Test for Network in Virtual Environment Using VMware Virtualization Technique,,TA-NAS
+Springer,C,2015,Tanceska et al,"Simulation Analysis of DoS, MITM and CDP Security Attacks and Countermeasures",,TA-NAS
+Springer,C,2015,Saab & Awad,Modeling Attacks on MANET Using an Incomplete Repeated Bayesian Game,,TA-NAS
+Springer,C,2014,Furfaro et al,Modelling and Simulation of a Defense Strategy to Face Indirect DDoS Flooding Attacks,,TA-NAS
+Springer,C,2013,Zhang & Li,Based on the Queuing Model of CAN Bus Simulation and Application,,TA-NAS
+Springer,C,2008,Hamilton & Hamilton,Adversary Modeling and Simulation in Cyber Warfare,,TA-NAS
+Springer,C,2003,Seo et al,Modeling and Simulation of Distributed Security Models,,TA-NAS
+Springer,C,2002,Seo & Cho,Modeling and Simulation for Detecting a Distributed Denial of Service Attack,,TA-NAS
+Springer,C,2001,Gorodetski et al,Agent-Based Model of Computer Network Security System: A Case Study,,TA-NAS
+Springer,C,2019,Xiao & Guo,Discussion on Computer Network Security Solution,,TA-NS
+Springer,C,2019,Schmitt et al,VULNERABILITY ASSESSMENT OF INFINIBAND NETWORKING,,TA-NS
+Springer,C,2019,Guo et al,Simulation and Modeling of Modbus Protocol Based on Petri Net,,TA-NS
+Springer,C,2018,Zhang et al,Establishing an Optimal Network Defense System: A Monte Carlo Graph Search Method,,TA-NS
+Springer,C,2018,Doynikova & Kotenko,An Automated Graph Based Approach to Risk Assessment for Computer Networks with Mobile Components,,TA-NS
+Springer,C,2018,Cao et al,An Attack Graph Generation Method Based on Parallel Computing,,TA-NS
+Springer,C,2017,Li & Hankin,Effective Defence Against Zero-Day Exploits Using Bayesian Networks,,TA-NS
+Springer,C,2014,Lunkeit,A Graph-Based Approach for Analysis of Software Security,,TA-NS
+Springer,C,2014,Djemaiel & Boudriga,Modeling and Assessing the Impact of Security Attacks on Enterprise Information Systems,,TA-NS
+Springer,C,2014,Beckers et al,Determining the Probability of Smart Grid Attacks by Combining Attack Tree and Attack Graph Analysis,,TA-NS
+Springer,C,2013,Dai et al,Patrol: Revealing Zero-Day Attack Paths through Network-Wide System Object Dependencies,,TA-NS
+Springer,C,2012,Shosha et al,A Novel Methodology for Malware Intrusion Attack Path Reconstruction,,TA-NS
+Springer,C,2012,Jiang et al,An Intelligent Agent-Based Framework for Information Security Management,,TA-NS
+Springer,C,2011,Cheng et al,An Integrated Network Scanning Tool for Attack Graph Construction,,TA-NS
+Springer,C,2009,Zulkernine et al,Towards Model-Based Automatic Testing of Attack Scenarios,,TA-NS
+Springer,C,2007,Wang et al,Measuring the Overall Security of Network Configurations Using Attack Graphs,,TA-NS
+Springer,C,2007,Moloisane et al,Internet Tomography in Support of Internet and Network Simulation and Emulation Modelling,,TA-NS
+Springer,C,2007,Kim et al,Modeling and Simulation for Security Risk Propagation in Critical Information Systems,,TA-NS
+Springer,C,2006,Kim et al,A Probabilistic Approach to Estimate the Damage Propagation of Cyber Attacks,,TA-NS
+Springer,C,2006,Hao et al,Evolvable Viral Agent Modeling and Exploration,,TA-NS
+Springer,C,2001,Yi & Cho,Hierarchical Simulation Model with Animation for Large Network Security,,TA-NS
+Springer,C,2001,Michel & Me,ADELE: AN ATTACK DESCRIPTION LANGUAGE FOR KNOWLEDGE-BASED INTRUSION DETECTION,,TA-NS
+Springer,C,2006,Eom et al,Modeling Active Cyber Attack for Network Vulnerability Assessment,,Pub
+Springer,C,2001,Park et al,SECUSIM: A Tool for the Cyber-Attack Simulation,,Comp
+Springer,C,2002,Gorodetski & Kotenko,Attacks against Computer Network: Formal Grammar-Based Framework and Simulation Tool,,Comp
+Springer,C,2004,Chi et al,A Role of DEVS Simulation for Information Assurance,,Comp
+Springer,C,2005,Lee et al,Linux-Based System Modelling for Cyber-attack Simulation,,Comp
+Springer,C,2003,Kotenko & Man kov,Experiments with Simulation of Attacks against Computer Networks,,Pub
+Springer,C,2004,Lee et al,Automated Cyber-attack Scenario Generation Using the Symbolic Simulation,,Comp
+Elsevier,J,2016,Bou-Harb et al,A novel cyber security capability Inferring Internet-scale infections by correlating malware and probing activities,,TA-NS
+Elsevier,J,2019,Dong & Zhao,Sensor network security defense strategy based on attack graph and improved binary PSO,,LA-NAS
+Elsevier,J,2016,Badii et al,ICARO Cloud Simulator exploiting knowledge base,,TA-NAS
+Elsevier,J,2019,Liu et al,Network security situation: From awareness to awareness-control,,LA-NAS
+Springer,J,2007,Kotapari et al,Dependency relation based vulnerability analysis of 3G networks Can it identify unforeseen cascading attacks?,,LA-NS
+Springer,J,2017,Kaur et al,Simulation Based Comparative Study of Routing Protocols Under Wormhole Attack in Manet,,TA-NS
+Springer,J,2018,Eder-Neuhaser et al,Malware propagation in smart grid monocultures,,TA-NAS
+Springer,J,2012,Ghosh & Ghosh,A planner-based approach to generate and analyze minimal attack graph,,TA-NAS
+Springer,J,2018,Hussain et al,Simulation modeling and analysis of master node election algorithm based on signal strength for VANETs through Colored Petri nets,,LA-NAS
+IEEE,C,2019,Almutairi et al,SECURITY ANALYSIS OF MULTIPLE SDN CONTROLLERS BASED ON STOCHASTIC PETRI NETS,,FA-NAS
