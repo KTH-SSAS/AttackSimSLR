@@ -49,8 +49,8 @@ in markdown. -->
 - Supervisor: [Robert Lagerström](https://github.com/Chezz81)
 - Active members:
   - [Viktor Engström](https://github.com/viktorengström)
-- Status: running :green_circle: <!--(or pending :yellow_circle:, completed :orange_circle:)-->
-- Timeline: HT2019-Ongoing
+- Status: finished :orange_circle: <!--(or pending :yellow_circle:, completed :orange_circle:)-->
+- Timeline: HT2019-2022
 
 <!--### Project links
 
@@ -69,6 +69,7 @@ The repository tracking the systematic literature review of tactical cyber attac
 - Impact simulations - focused on predicting the effect of a cyber attack on a system or entity, rather than the mechanisms of the attacks themselves.
 
 ## Resources
+- [Research paper](https://doi.org/10.1016/j.cose.2022.102681)
 - [MAL - Meta Attack  Language](https://mal-lang.org)
 
 <br>
